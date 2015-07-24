@@ -1,0 +1,115 @@
+---
+title: "gsea"
+author: "Xin He"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+%\VignetteIndexEntry{oGraph}
+%\VignetteEngine{knitr::rmarkdown}
+\usepackage[utf8]{inputenc}
+---
+  
+# Overview
+gsea provides gene set enrichment analysis. It also implemented the elim 
+methods.
+
+# Quick start guide
+This section describes a simple working session using **gsea**. 
+
+A typical session can be divided into two steps:
+  
+1.  *Data preparation* build the oGraph object which has the ontology store in an underlying igraph object.
+
+2.  *Running analysis* 
+
+
+Here are example vignettes:
+
+```{r 1,message=FALSE}
+library('ograph')
+ograph::initOGraph('HDO')
+g<-new("ontGraph",ontology='HDO')
+mg<-subGraphByNodes(g@graph,nodes=c('DOID:10652','DOID:14330','DOID:5419'))
+mg<-mapGene2Graph(mg,file=system.file("extdata/annotation","human_gene2HDO", package ="topOnto"),rollup=TRUE)
+GO2geneID=.get.genesInNodes(mg,V(mg)$name)
+e2s<-entrez2symbol()
+GO2geneID.symbol<-lapply(GO2geneID,function(x){
+  unname(e2s[x][!is.na(e2s[x])])
+})
+Terms<-Term(ONTTERM)
+```
+
+```{r 2,message=FALSE}
+library('gsea')
+GSEA.elim(Terms=Terms,Term2geneID.symbol= GO2geneID.symbol,  sig=0.05, graph=mg,
+          # Input/Output Files :-------------------------------------------
+           input.ds =  system.file("extdata/Datasets","Leukemia.gct", package ="gsea"), # Input gene expression Affy dataset file in RES or GCT format
+           input.cls = system.file("extdata/Datasets","Leukemia.cls", package ="gsea"), # Input class vector (phenotype) file in CLS format
+           #gs.db =     "/home/xin/Downloads/GSEA-P-R/GeneSetDatabases/C2.gmt",         # Gene set database in GMT format
+           gs.db =     GO2geneID.symbol,         # Gene set database in GMT format
+           output.directory      = "",        # Directory where to store output and results (default: "")
+           #  Program parameters :-------------------------------------------------------------------------------------------------------------------------
+           doc.string            = "Test",   # Documentation string used as a prefix to name result files (default: "GSEA.analysis")
+           non.interactive.run   = F,               # Run in interactive (i.e. R GUI) or batch (R command line) mode (default: F)
+           reshuffling.type      = "sample.labels", # Type of permutation reshuffling: "sample.labels" or "gene.labels" (default: "sample.labels" 
+           nperm                 = 10,              # Number of random permutations (default: 1000)
+           weighted.score.type   =  1,              # Enrichment correlation-based weighting: 0=no weight (KS), 1= weigthed, 2 = over-weigthed (default: 1)
+           nom.p.val.threshold   = -1,              # Significance threshold for nominal p-vals for gene sets (default: -1, no thres)
+           fwer.p.val.threshold  = -1,              # Significance threshold for FWER p-vals for gene sets (default: -1, no thres)
+           fdr.q.val.threshold   = 0.25,            # Significance threshold for FDR q-vals for gene sets (default: 0.25)
+           topgs                 = 20,              # Besides those passing test, number of top scoring gene sets used for detailed reports (default: 10)
+           adjust.FDR.q.val      = F,               # Adjust the FDR q-vals (default: F)
+           gs.size.threshold.min = 25,              # Minimum size (in genes) for database gene sets to be considered (default: 25)
+           gs.size.threshold.max = 3000,             # Maximum size (in genes) for database gene sets to be considered (default: 500)
+           reverse.sign          = F,               # Reverse direction of gene list (pos. enrichment becomes negative, etc.) (default: F)
+           preproc.type          = 0,               # Preproc.normalization: 0=none, 1=col(z-score)., 2=col(rank) and row(z-score)., 3=col(rank). (def: 0)
+           random.seed           = 3338,            # Random number generator seed. (default: 123456)
+           perm.type             = 0,               # For experts only. Permutation type: 0 = unbalanced, 1 = balanced (default: 0)
+           fraction              = 1.0,             # For experts only. Subsampling fraction. Set to 1.0 (no resampling) (default: 1.0)
+           replace               = F,               # For experts only, Resampling mode (replacement or not replacement) (default: F)
+           save.intermediate.results = F,           # For experts only, save intermediate results (e.g. matrix of random perm. scores) (default: F)
+           OLD.GSEA              = F,               # Use original (old) version of GSEA (default: F)
+           use.fast.enrichment.routine = F          # Use faster routine to compute enrichment for random permutations (default: T)
+)
+```
+</center>
+
+
+```{r}
+gs.db=NULL
+#update the geneset
+for(i in names(GO2geneID.symbol)){
+  s=paste(i,Terms[[i]],paste(GO2geneID.symbol[[i]],collapse="\t"),sep="\t")
+  gs.db=c(gs.db,s)
+  s=''
+}
+
+GSEA(# Input/Output Files :-------------------------------------------
+          input.ds =  system.file("extdata/Datasets","Leukemia.gct", package ="gsea"), # Input gene expression Affy dataset file in RES or GCT format
+         input.cls = system.file("extdata/Datasets","Leukemia.cls", package ="gsea"), # Input class vector (phenotype) file in CLS format
+          gs.db =     gs.db,         # Gene set database in GMT format
+          output.directory      = "",        # Directory where to store output and results (default: "")
+          #  Program parameters :-------------------------------------------------------------------------------------------------------------------------
+          doc.string            = "TeSt",   # Documentation string used as a prefix to name result files (default: "GSEA.analysis")
+          non.interactive.run   = F,               # Run in interactive (i.e. R GUI) or batch (R command line) mode (default: F)
+          reshuffling.type      = "sample.labels", # Type of permutation reshuffling: "sample.labels" or "gene.labels" (default: "sample.labels" 
+          nperm                 = 20,              # Number of random permutations (default: 1000)
+          weighted.score.type   =  1,              # Enrichment correlation-based weighting: 0=no weight (KS), 1= weigthed, 2 = over-weigthed (default: 1)
+          nom.p.val.threshold   = -1,              # Significance threshold for nominal p-vals for gene sets (default: -1, no thres)
+          fwer.p.val.threshold  = -1,              # Significance threshold for FWER p-vals for gene sets (default: -1, no thres)
+          fdr.q.val.threshold   = 0.25,            # Significance threshold for FDR q-vals for gene sets (default: 0.25)
+          topgs                 = 20,              # Besides those passing test, number of top scoring gene sets used for detailed reports (default: 10)
+          adjust.FDR.q.val      = F,               # Adjust the FDR q-vals (default: F)
+          gs.size.threshold.min = 25,              # Minimum size (in genes) for database gene sets to be considered (default: 25)
+          gs.size.threshold.max = 3000,             # Maximum size (in genes) for database gene sets to be considered (default: 500)
+          reverse.sign          = F,               # Reverse direction of gene list (pos. enrichment becomes negative, etc.) (default: F)
+          preproc.type          = 0,               # Preproc.normalization: 0=none, 1=col(z-score)., 2=col(rank) and row(z-score)., 3=col(rank). (def: 0)
+          random.seed           = 3338,            # Random number generator seed. (default: 123456)
+          perm.type             = 0,               # For experts only. Permutation type: 0 = unbalanced, 1 = balanced (default: 0)
+          fraction              = 1.0,             # For experts only. Subsampling fraction. Set to 1.0 (no resampling) (default: 1.0)
+          replace               = F,               # For experts only, Resampling mode (replacement or not replacement) (default: F)
+          save.intermediate.results = F,           # For experts only, save intermediate results (e.g. matrix of random perm. scores) (default: F)
+          OLD.GSEA              = F,               # Use original (old) version of GSEA (default: F)
+          use.fast.enrichment.routine = F          # Use faster routine to compute enrichment for random permutations (default: T)
+)
+```

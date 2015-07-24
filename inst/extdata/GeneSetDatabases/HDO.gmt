@@ -1,0 +1,1171 @@
+DOID:0050120	hemophagocytic lymphohistiocytosis	PRF1	STXBP2	STX11	UNC13D
+DOID:0050129	secretory diarrhea	SPINT2
+DOID:0050156	idiopathic pulmonary fibrosis	SFTPA2
+DOID:0050328	congenital hypothyroidism	NKX2-5	THRA	GLIS3
+DOID:0050331	LADD syndrome	FGF10	FGFR3	FGFR2
+DOID:0050332	enlarged vestibular aqueduct	FOXI1	KCNJ10	SLC26A4
+DOID:0050335	NA	RGS9	RGS9BP
+DOID:0050419	complement factor I deficiency	CFI
+DOID:0050426	Stevens-Johnson syndrome	HLA-B
+DOID:0050427	xeroderma pigmentosum	DDB2	ERCC2	ERCC3	ERCC4	ERCC5	POLH	XPA	XPC
+DOID:0050428	nonepidermolytic palmoplantar keratoderma	KRT1	KRT16	RHBDF2	KRT6C
+DOID:0050429	Hailey-Hailey disease	ATP2C1
+DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	DSC2	DSG2	DSP	JUP	PKP2	RYR2	TGFB3	CTNNA3	TMEM43
+DOID:0050432	Asperger syndrome	NLGN3	NLGN4X
+DOID:0050433	fatal familial insomnia	PRNP
+DOID:0050434	Andersen-Tawil syndrome	KCNJ2
+DOID:0050436	mulibrey nanism	TRIM37
+DOID:0050437	Danon disease	LAMP2
+DOID:0050438	Frasier syndrome	WT1
+DOID:0050439	Usher syndrome	HARS	MYO7A	USH2A	CLRN1	USH1C	CIB2	DFNB31	CDH23	PCDH15	PDZD7	GPR98	USH1G
+DOID:0050440	familial partial lipodystrophy	LIPE	LMNA	PLIN1	PPARG	CIDEC
+DOID:0050445	X-linked hypophosphatemia	CLCN5	DMP1	ENPP1	PHEX	VDR	FGF23	SLC34A3
+DOID:0050448	hereditary mucosal leukokeratosis	KRT4	KRT13
+DOID:0050449	pachyonychia congenita	KRT6A	KRT6B	KRT16	KRT17
+DOID:0050450	Gitelman syndrome	SLC12A3
+DOID:0050451	Brugada syndrome	CACNA1C	CACNB2	SCN1B	SCN5A	KCNE3	HCN4	GPD1L	SCN3B
+DOID:0050452	mevalonic aciduria	MVK
+DOID:0050453	lissencephaly	DCX	LAMB1	PAFAH1B1	RELN	TUBA1A	NDE1	ARX
+DOID:0050454	periventricular nodular heterotopia	FLNA	ARFGEF2	ERMARD
+DOID:0050455	NA	FBN2
+DOID:0050457	Sertoli cell-only syndrome	DAZ1
+DOID:0050458	juvenile myelomonocytic leukemia	CBL	NF1	PTPN11	ARHGAP26
+DOID:0050460	Wolf-Hirschhorn syndrome	TCF4	NRXN1	CNTNAP2
+DOID:0050461	aspartylglucosaminuria	AGA
+DOID:0050462	Antley-Bixler syndrome	FGFR2	POR
+DOID:0050463	campomelic dysplasia	SOX9
+DOID:0050464	Farber lipogranulomatosis	ASAH1
+DOID:0050465	Muir-Torre syndrome	MLH1	MSH2
+DOID:0050466	Loeys-Dietz syndrome	SMAD3	TGFB2	TGFBR1	TGFBR2
+DOID:0050467	erythrokeratodermia variabilis	GJB3	GJB4
+DOID:0050469	Costello syndrome	HRAS
+DOID:0050470	Donohue Syndrome	INSR
+DOID:0050471	Carney complex	MYH8	PRKAR1A
+DOID:0050472	monilethrix	KRT81	KRT83	KRT86
+DOID:0050473	Alstrom syndrome	ALMS1
+DOID:0050474	Netherton syndrome	SPINK5
+DOID:0050475	Weill-Marchesani syndrome	FBN1	LTBP2	ADAMTS10	ADAMTS17
+DOID:0050476	Barth syndrome	TAZ
+DOID:0050477	Liddle syndrome	SCNN1B	SCNN1G
+DOID:0050524	maturity-onset diabetes of the young	BLK	CEL	GCK	HNF4A	INS	PDX1	NEUROD1	PAX4	HNF1A	KLF11
+DOID:0050528	nonphotosensitive trichothiodystrophy	MPLKIP
+DOID:0050532	NA	NRAS
+DOID:0050533	NA	SLC6A2
+DOID:0050534	congenital stationary night blindness	CACNA1F	NA	GRM6	TRPM1	PDE6B	RHO	SLC24A1	CABP4	NYX	LRIT3	GPR179
+DOID:0050535	exudative vitreoretinopathy	LRP5	NDP	FZD4	TSPAN12
+DOID:0050536	SC phocomelia syndrome	ESCO2
+DOID:0050542	Charcot-Marie-Tooth disease type X	AIFM1
+DOID:0050544	hypermethioninemia	ADK	AHCY	MAT1A
+DOID:0050545	visceral heterotaxy	ACVR2B	NODAL	ZIC3	CFC1	CFAP53
+DOID:0050547	familial medullary thyroid carcinoma	NTRK1
+DOID:0050548	hereditary sensory neuropathy	KIF1A	DST	DNMT1	NGF	SPTLC2	SPTLC1	SCN11A	ATL3	ATL1	FAM134B	WNK1
+DOID:0050552	Sugio-Kajii syndrome	TRPS1
+DOID:0050557	congenital muscular dystrophy	CHKB	LAMA2	LMNA
+DOID:0050558	Ullrich congenital muscular dystrophy	COL6A1	COL6A2	COL6A3
+DOID:0050564	autosomal dominant nonsyndromic deafness	ACTG1	COL11A2	CRYM	DFNA5	COCH	DIAPH1	DNMT1	EYA4	GJB2	GJB3	TNC	MYH9	MYO1A	MYO6	MYO7A	POU4F3	SIX1	TECTA	WFS1	KCNQ4	GJB6	P2RX2	DIABLO	TBC1D24	MYH14	GRHL2	TMC1	CCDC50	SLC17A8	CEACAM16	MIR96
+DOID:0050565	autosomal recessive nonsyndromic deafness	ADCY1	COL11A2	EPS8	ESRRB	GJB2	HGF	KARS	MYO6	MYO7A	SERPINB6	RDX	TECTA	OTOF	USH1C	CIB2	GJB6	TRIOBP	CLDN14	DFNB31	MYO15A	CABP2	CLIC5	MYO3A	TSPEAR	TBC1D24	CDH23	TMPRSS3	PCDH15	ESPN	ELMOD3	PNPT1	TMC1	LOXHD1	GIPC3	OTOA	MARVELD2	STRC	SYNE4	LRTOMT	LHFPL5	MSRB3	TMIE	OTOGL	TPRN	ILDR1	OTOG	PTPRQ	SLC26A5	GRXCR1	DFNB59	GRXCR2
+DOID:0050566	X-linked nonsyndromic deafness	COL4A6	TIMM8A	POU3F4	PRPS1	RPGR	SMPX
+DOID:0050567	orofacial cleft	BMP4	IRF6	MSX1	PVRL1	SUMO1	TP63
+DOID:0050568	spondylocostal dysostosis	LFNG	TBX6	DLL3	HES7	MESP2
+DOID:0050569	Seckel syndrome	ATR	DNA2	PCNT	RBBP8	CEP152	NIN	CENPJ	CEP63	RNU4ATAC
+DOID:0050571	congenital disorder of glycosylation type II	ALG2
+DOID:0050572	cone-rod dystrophy	ABCA4	CRX	GUCA1A	GUCY2D	PCYT1A	RPGR	ADAM9	PROM1	RAB28	RIMS1	TTLL5	AIPL1	RPGRIP1	SEMA4A	PITPNM3	RAX2	CDHR1	C8orf37	POC1B
+DOID:0050574	L-2-hydroxyglutaric aciduria	SLC25A1	L2HGDH
+DOID:0050575	D-2-hydroxyglutaric aciduria	IDH2	SLC25A1	D2HGDH
+DOID:0050576	Senior-Loken syndrome	NPHP1	IQCB1	SDCCAG8	CEP290	NPHP4
+DOID:0050577	Sensenbrenner syndrome	IFT122	WDR35	WDR19	IFT43
+DOID:0050578	occult macular dystrophy	RP1L1
+DOID:0050579	glycogen storage disease XV	GYG1
+DOID:0050580	hereditary lymphedema	FLT4	VEGFC	GJC2
+DOID:0050581	brachydactyly	BMP2	BMPR1B	RUNX2	HOXD13	IHH	ROR2	PTHLH	GDF5	NOG	HDAC4	HDAC6	CHSY1	TRPV4
+DOID:0050582	distal hereditary motor neuropathy	DCTN1	GARS	HSPB1	HSPB8	BSCL2
+DOID:0050585	congenital generalized lipodystrophy	CAV1	AGPAT2	BSCL2	PTRF
+DOID:0050587	trichotillomania	SLITRK1
+DOID:0050588	muscular dystrophy-dystroglycanopathy	DAG1	FKTN	LARGE	TMEM5	POMT1	B4GAT1	GMPPB	POMT2	POMGNT1	FKRP	POMK	POMGNT2	B3GALNT2	ISPD
+DOID:0050589	inflammatory bowel disease	IL10RA	IL10RB	IRF5	ABCB1	ATG16L1	NOD2	IL23R	IRGM
+DOID:0050590	severe congenital neutropenia	ELANE	GFI1	WAS	HAX1	VPS45	JAGN1	G6PC3
+DOID:0050591	tooth agenesis	DSP	EDA	LTBP3	MSX1	PAX9	AXIN2	POLR3A	POLR3B	WNT10A
+DOID:0050593	primary congenital glaucoma	LTBP2
+DOID:0050600	ABCD syndrome	EDNRB
+DOID:0050601	ADULT syndrome	TP63
+DOID:0050602	triple-A syndrome	AAAS
+DOID:0050603	acheiropody	LMBR1
+DOID:0050604	acrocapitofemoral dysplasia	IHH
+DOID:0050605	acrodermatitis enteropathica	SLC39A4
+DOID:0050606	acrokeratosis verruciformis	ATP2A2
+DOID:0050628	advanced sleep phase syndrome	CSNK1D	PER2
+DOID:0050629	Aicardi-Goutieres syndrome	ADAR	RNASEH2A	TREX1	SAMHD1	IFIH1	RNASEH2B	RNASEH2C
+DOID:0050630	Aland Island eye disease	CACNA1F
+DOID:0050631	Allan-Herndon-Dudley syndrome	SLC16A2
+DOID:0050632	oculocutaneous albinism	OCA2	TYR	TYRP1	SLC45A2	C10orf11	SLC24A5
+DOID:0050633	ocular albinism	MITF	GPR143	NA
+DOID:0050634	alopecia universalis	HR
+DOID:0050635	alternating hemiplegia of childhood	ATP1A2	ATP1A3
+DOID:0050636	familial visceral amyloidosis	FGA
+DOID:0050637	Finnish type amyloidosis	GSN
+DOID:0050638	transthyretin amyloidosis	TTR
+DOID:0050639	primary cutaneous amyloidosis	OSMR	IL31RA
+DOID:0050640	anauxetic dysplasia	RMRP
+DOID:0050642	hypochromic microcytic anemia	HBA2	SLC11A2
+DOID:0050643	anonychia congenita	RSPO4
+DOID:0050644	arterial calcification of infancy	ABCC6	ENPP1
+DOID:0050645	arterial tortuosity syndrome	SLC2A10
+DOID:0050646	distal arthrogryposis	MYBPC1	MYH3	TNNI2	TPM2	ECEL1	PIEZO2
+DOID:0050647	Arts syndrome	PRPS1
+DOID:0050648	atelosteogenesis	SLC26A2	FLNB
+DOID:0050649	atransferrinemia	TF
+DOID:0050650	familial atrial fibrillation	GJA5	KCNA5	KCNJ2	KCNQ1	NPPA	SCN1B	SCN2B	SCN4B	SCN5A	KCNE2	ABCC9	SCN3B
+DOID:0050651	atrioventricular septal defect	GATA4	GATA6	GJA1	CRELD1
+DOID:0050654	Baller-Gerold syndrome	RECQL4
+DOID:0050655	Bamforth-Lazarus syndrome	FOXE1
+DOID:0050656	pseudo-TORCH syndrome	OCLN
+DOID:0050657	Bannayan-Riley-Ruvalcaba syndrome	PTEN
+DOID:0050658	Bart-Pumphrey syndrome	GJB2
+DOID:0050660	Beare-Stevenson cutis gyrata syndrome	FGFR2
+DOID:0050661	vitelliform macular dystrophy	IMPG1	PRPH2	BEST1	IMPG2
+DOID:0050662	bestrophinopathy	BEST1
+DOID:0050663	Bethlem myopathy	COL6A1	COL6A2	COL6A3
+DOID:0050664	Bietti crystalline corneoretinal dystrophy	CYP4V2
+DOID:0050674	congenital bile acid synthesis defect	AKR1D1	CYP7B1	AMACR	HSD3B7
+DOID:0050675	Birk-Barel syndrome	KCNK9
+DOID:0050676	Birt-Hogg-Dube syndrome	FLCN
+DOID:0050677	Bjornstad syndrome	BCS1L
+DOID:0050678	Blau syndrome	NOD2
+DOID:0050679	blue cone monochromacy	OPN1MW	OPN1LW
+DOID:0050680	Boomerang dysplasia	FLNB
+DOID:0050681	Borjeson-Forssman-Lehmann syndrome	PHF6
+DOID:0050682	Athabaskan brainstem dysgenesis syndrome	HOXA1
+DOID:0050683	Bothnia retinal dystrophy	RLBP1
+DOID:0050684	Bowen-Conradi syndrome	EMG1
+DOID:0050689	brachydactyly-syndactyly syndrome	HOXD13
+DOID:0050690	brachyolmia	PAPSS2	TRPV4
+DOID:0050691	branchiooculofacial syndrome	TFAP2A
+DOID:0050692	Brody myopathy	ATP2A1
+DOID:0050693	Brooke-Spiegler syndrome	CYLD
+DOID:0050694	Brown-Vialetto-Van Laere syndrome	SLC52A2	SLC52A3
+DOID:0050700	cardiomyopathy	SLC25A4	DSP	TTN
+DOID:0050709	Ohtahara syndrome	GABRA1	GNAO1	GRIN2B	KCNB1	KCNQ2	SCN2A	SCN8A	ST3GAL3	SPTAN1	CDKL5	STXBP1	ARHGEF9	PLCB1	SZT2	NECAP1	WWOX	TBC1D24	PCDH19	KCNT1	SLC25A22	DOCK7	ARX	SLC13A5	HCN1
+DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency	MCCC1	MCCC2
+DOID:0050711	aceruloplasminemia	CP
+DOID:0050712	AGAT deficiency	GATM
+DOID:0050713	fatal infantile encephalocardiomyopathy	COX15	SCO2
+DOID:0050722	PHGDH deficiency	PHGDH
+DOID:0050723	PSAT deficiency	PSAT1
+DOID:0050724	PSPH deficiency	PSPH
+DOID:0050729	neutral lipid storage disease	ABHD5	PNPLA2
+DOID:0050730	coenzyme Q10 deficiency disease	PDSS1	COQ2	COQ6	ADCK3	COQ9	PDSS2
+DOID:0050735	X-linked disease	CYBB	PDK3	PRPS1
+DOID:0050736	autosomal dominant disease	LRP6	MEF2A
+DOID:0050737	autosomal recessive disease	IL10RA	IL10RB	NCF4	PARK7	FBXO7
+DOID:0050741	alcohol dependence	ADH1B	ADH1C	GABRA2	HTR2A	TAS2R16	RCBTB1
+DOID:0050742	nicotine dependence	CHRNA5	SLC6A3	GABBR2
+DOID:0050746	mantle cell lymphoma	ATM
+DOID:0050752	amyotrophic lateral sclerosis type 8	VAPB
+DOID:0050753	cerebellar ataxia	CA8	CACNA1A	CP	DNMT1	SCN8A	CAMTA1	ATP8A2	RNF216	ATCAY	WDR81
+DOID:0050757	deafness dystonia syndrome	TIMM8A
+DOID:0050763	ARC syndrome	VPS33B	VIPAS39
+DOID:0050768	mitochondrial complex V (ATP synthase) deficiency, nuclear type 1	ATPAF2
+DOID:0050769	N syndrome	POLA1
+DOID:0050770	polycystic liver disease	PRKCSH	SEC63
+DOID:0050771	phaeochromocytoma	GDNF	MAX	RET	SDHB	SDHD	VHL	KIF1B	TMEM127
+DOID:0050773	paraganglioma	SDHA	SDHB	SDHC	SDHD	SDHAF2
+DOID:0050774	rapadilino syndrome	RECQL4
+DOID:0050775	schneckenbecken dysplasia	SLC35D1
+DOID:0050777	Joubert syndrome	NPHP1	PDE6D	OFD1	ZNF423	RPGRIP1L	TCTN3	TMEM216	TMEM138	AHI1	INPP5E	CC2D2A	TMEM237	C5orf42	TMEM231	TCTN1	CSPP1	CEP290	TMEM67	CEP41	ARL13B	KIF7
+DOID:0050778	Meckel syndrome	RPGRIP1L	NPHP3	B9D1	TMEM216	MKS1	CC2D2A	TMEM231	TCTN2	CEP290	B9D2	TMEM67
+DOID:0050779	hydrolethalus syndrome	HYLS1	KIF7
+DOID:0050780	Opitz-GBBB syndrome	MID1
+DOID:0050781	Ogden syndrome	NAA10
+DOID:0050787	juvenile polyposis syndrome	BMPR1A	SMAD4
+DOID:0050788	proximal symphalangism	GDF5	NOG
+DOID:0050789	tarsal-carpal coalition syndrome	NOG
+DOID:0050790	fibular hypoplasia and complex brachydactyly	GDF5
+DOID:0050791	persistent mullerian duct syndrome	AMH	AMHR2
+DOID:0050793	short QT syndrome	KCNH2	KCNJ2	KCNQ1
+DOID:0050794	multiple synostoses syndrome	FGF9	GDF5	NOG
+DOID:0050795	cone dystrophy	GUCA1A	PDE6C	PDE6H	RLBP1	BEST1	CACNA2D4	KCNV2
+DOID:0050797	peroxisomal acyl-CoA oxidase deficiency	ACOX1
+DOID:0050799	guanidinoacetate methyltransferase deficiency	GAMT
+DOID:0050800	creatine transporter deficiency	SLC6A8
+DOID:0050802	Ehlers-Danlos syndrome progeroid type	B3GALT6
+DOID:0050807	Kahrizi syndrome	SRD5A3
+DOID:0050809	mucopolysaccharidosis IX	HYAL1
+DOID:0050813	spondyloepiphyseal dysplasia with congenital joint dislocations	ACAN	TRAPPC2	WISP3	CHST3
+DOID:0050814	temtamy preaxial brachydactyly syndrome	CHSY1
+DOID:0050816	urofacial syndrome	LRIG2	HPSE2
+DOID:0050817	Stargardt disease	ABCA4	ELOVL4	PROM1
+DOID:0050818	transcobalamin II deficiency	TCN2
+DOID:0050824	sinoatrial node disease	CACNA1D
+DOID:0050833	orotic aciduria	UMPS
+DOID:0050834	CHARGE syndrome	SEMA3E	CHD7
+DOID:0050835	generalized dystonia	ATP1A3
+DOID:0050849	periampullary adenoma	APC
+DOID:0050851	glomerulosclerosis	APOL1
+DOID:0050854	Muckle-Wells syndrome	NLRP3
+DOID:0050857	Perrault syndrome	HSD17B4	CLPP	LARS2	HARS2	C10orf2
+DOID:0050858	Marshall-Smith syndrome	NFIX
+DOID:0050860	colorectal adenoma	MUTYH
+DOID:0050864	non-arteritic anterior ischemic optic neuropathy	GP1BA
+DOID:0050865	tongue squamous cell carcinoma	FAS	LZTS1	DEC1	WWOX
+DOID:0050867	Jensen syndrome	TIMM8A
+DOID:0050873	follicular lymphoma	BCL10
+DOID:0050877	pancreatic agenesis	GATA6	PDX1	PTF1A
+DOID:0050878	NA	CFI
+DOID:0050880	Koolen de Vries syndrome	KANSL1
+DOID:0050883	infantile cerebellar-retinal degeneration	ACO2
+DOID:0050884	triosephosphate isomerase deficiency	TPI1
+DOID:0050885	IMAGe syndrome	CDKN1C
+DOID:0050886	Troyer syndrome	SPG20
+DOID:0050887	Townes-Brocks syndrome	SALL1
+DOID:0050902	medulloblastoma	BRCA2	PTCH2	SUFU
+DOID:0050904	salivary gland carcinoma	CRTC1	MAML2
+DOID:0050908	myelodysplastic syndrome	ATRX	GATA2	IRF1	ACSL6	SF3B1	TET2	ASXL1
+DOID:0050909	MALT lymphoma	BCL10
+DOID:0060009	MHC class I deficiency	TAP2
+DOID:0060010	Omenn syndrome	RAG1	RAG2	DCLRE1C
+DOID:0060013	gamma chain deficiency	IL2RG
+DOID:0060020	reticular dysgenesis	AK2
+DOID:0060021	DNA ligase IV deficiency	LIG4
+DOID:0060046	aphasia	GRN
+DOID:0060053	peripheral neuropathy	SLC12A6	MYH14
+DOID:0060055	popliteal pterygium syndrome	IRF6	RIPK4
+DOID:0060058	lymphoma	NA	TCL1A	MAD1L1	TCL1B
+DOID:0060060	non-Hodgkin lymphoma	CASP10	PRF1	RAD54L	RAD54B
+DOID:0060062	familial juvenile hyperuricemic nephropathy	REN	UMOD
+DOID:0060063	X-linked sideroblastic anemia	ALAS2
+DOID:0060135	apraxia	PSEN1	SETX	PIK3R5	APTX
+DOID:0060145	pain agnosia	MC1R
+DOID:0060161	Kennedy's disease	AR
+DOID:0060163	body dysmorphic disorder	TBCE	RNF135
+DOID:0060164	pain disorder	SCN9A
+DOID:0060167	seasonal affective disorder	HTR2A
+DOID:0060168	histidinemia	HAL
+DOID:0060169	benign familial infantile epilepsy	SCN2A	PRRT2
+DOID:0060170	generalized epilepsy with febrile seizures plus	STX1B
+DOID:0060171	Dravet Syndrome	SCN1A	SCN9A
+DOID:0060173	Timothy syndrome	CACNA1C
+DOID:0060175	succinic semialdehyde dehydrogenase deficiency	ALDH5A1
+DOID:0060178	familial hemiplegic migraine	ATP1A2	CACNA1A	SCN1A
+DOID:0060179	Renpenning syndrome	PQBP1
+DOID:0060193	amyotrophic lateral sclerosis type 1	SOD1
+DOID:0060194	amyotrophic lateral sclerosis type 2	ALS2	CHCHD10
+DOID:0060196	amyotrophic lateral sclerosis type 4	SETX
+DOID:0060200	amyotrophic lateral sclerosis type 9	ANG
+DOID:0060201	amyotrophic lateral sclerosis type 10	TARDBP
+DOID:0060202	amyotrophic lateral sclerosis type 11	FIG4
+DOID:0060203	amyotrophic lateral sclerosis type 12	OPTN
+DOID:0060204	amyotrophic lateral sclerosis type 13	ATXN2
+DOID:0060205	amyotrophic lateral sclerosis type 14	VCP
+DOID:0060206	amyotrophic lateral sclerosis type 15	UBQLN2
+DOID:0060207	amyotrophic lateral sclerosis type 16	SIGMAR1
+DOID:0060208	amyotrophic lateral sclerosis type 17	CHMP2B
+DOID:0060209	amyotrophic lateral sclerosis type 18	PFN1
+DOID:0060210	amyotrophic lateral sclerosis type 19	ERBB4
+DOID:0060211	amyotrophic lateral sclerosis type 20	HNRNPA1
+DOID:0060213	FTDALS1	C9orf72
+DOID:0060214	FTDALS2	CHCHD10
+DOID:0060224	atrial fibrillation	NUP155
+DOID:0060225	3MC syndrome	MASP1	COLEC11
+DOID:0060227	Adams-Oliver syndrome	RBPJ	NOTCH1	ARHGAP31	DOCK6	EOGT
+DOID:0060229	Baraitser-Winter syndrome	ACTB	ACTG1
+DOID:0060230	basal ganglia calcification	PDGFB	PDGFRB	SLC20A2
+DOID:0060231	Bruck syndrome	PLOD2
+DOID:0060232	branchiootic syndrome	EYA1
+DOID:0060233	cardiofaciocutaneous syndrome	BRAF	KRAS	MAP2K1	MAP2K2
+DOID:0060234	Carpenter syndrome	MEGF8	RAB23
+DOID:0060235	carnitine palmitoyltransferase II deficiency	CPT2
+DOID:0060236	xanthinuria	XDH
+DOID:0060237	Warburg micro syndrome	RAB3GAP1	RAB18	RAB3GAP2	TBC1D20
+DOID:0060238	Van Maldergem syndrome	DCHS1	FAT4
+DOID:0060239	Van der Woude syndrome	IRF6	GRHL3
+DOID:0060240	UV-sensitive syndrome	ERCC8	ERCC6	UVSSA
+DOID:0060241	3-M syndrome	CUL7	OBSL1	CCDC8
+DOID:0060242	synpolydactyly	FBLN1	HOXD13
+DOID:0060244	specific language impairment	TM4SF20
+DOID:0060245	Mast syndrome	SPG21
+DOID:0060246	MASA syndrome	L1CAM
+DOID:0060247	Smith-McCort dysplasia	DYM	RAB33B
+DOID:0060248	Simpson-Golabi-Behmel syndrome	GPC3	OFD1
+DOID:0060249	scoliosis	RIN2	ROBO3
+DOID:0060250	idiopathic scoliosis	CHD7
+DOID:0060251	sclerosteosis	LRP4	SOST
+DOID:0060253	scapuloperoneal myopathy	FHL1
+DOID:0060254	Robinow syndrome	ROR2	TWIST1	WNT5A
+DOID:0060255	rippling muscle disease	CAV3
+DOID:0060256	Dowling-Degos disease	KRT5	POFUT1	POGLUT1
+DOID:0060257	dyschromatosis symmetrica hereditaria	ADAR
+DOID:0060258	reticulate acropigmentation of Kitamura	ADAM10
+DOID:0060259	renal-hepatic-pancreatic dysplasia	NPHP3	NEK8
+DOID:0060260	ptosis	FOXL2	UBE3B
+DOID:0060261	congenital ptosis	ZFHX4
+DOID:0060262	gallbladder disease	ABCB4	ABCG8
+DOID:0060263	porencephaly	COL4A1	COL4A2
+DOID:0060264	pontocerebellar hypoplasia	AMPD2	CHMP1A	CLP1	EXOSC8	EXOSC3	SEPSECS	VPS53	RARS2
+DOID:0060265	pontocerebellar hypoplasia type 1A	VRK1
+DOID:0060267	pontocerebellar hypoplasia type 2A	TSEN54
+DOID:0060268	pontocerebellar hypoplasia type 2B	TSEN2
+DOID:0060269	pontocerebellar hypoplasia type 2C	TSEN34
+DOID:0060273	pontocerebellar hypoplasia type 4	TSEN54
+DOID:0060280	primary pigmented nodular adrenocortical disease	PRKAR1A	PDE8B	PDE11A
+DOID:0060282	persistent hyperplastic primary vitreous	ATOH7
+DOID:0060283	peeling skin syndrome	CDSN	TGM5
+DOID:0060284	paroxysmal nocturnal hemoglobinuria	PIGA	PIGT
+DOID:0060285	parietal foramina	MSX2	ALX4
+DOID:0060286	combined oxidative phosphorylation deficiency	ATP5A1	TUFM	AIFM1	TSFM	FARS2	MRPL3	MTO1	MRPS16	RMND1	MRPS22	LYRM4	VARS2	AARS2	ELAC2	MRPL44	TARS2	GTPBP3	GFM1	PNPT1	C12orf65	SFXN4	MTFMT	EARS2
+DOID:0060287	cornea plana	KERA
+DOID:0060288	omodysplasia	GPC6
+DOID:0060289	Ohdo syndrome	MED12
+DOID:0060290	blepharophimosis-intellectual disability syndrome	KAT6B	UBE3B
+DOID:0060291	oculodentodigital dysplasia	GJA1
+DOID:0060292	X-linked chondrodysplasia punctata	ARSE	EBP
+DOID:0060294	cold-induced sweating syndrome	CRLF1	CLCF1
+DOID:0060296	congenital secretory chloride diarrhea 1	SLC26A3
+DOID:0060304	dyschromatosis universalis hereditaria	ABCB6
+DOID:0060305	megalocornea	LTBP2	CHRDL1
+DOID:0060306	Meier-Gorlin syndrome	CDC6	ORC1	ORC4	ORC6	CDT1
+DOID:0060307	autosomal dominant non-syndromic intellectual disability	KIF1A	CDH15	CTNNB1	DYNC1H1	DYRK1A	EPB41L1	GRIN1	GRIN2B	PURA	SMARCA4	SMARCB1	SOX11	ARID1A	SYNGAP1	CACNG2	ZBTB18	DEAF1	CTCF	ZMYND11	ADNP	SETBP1	AUTS2	SETD5	PACS1	MBD5	GATAD2B	ARID1B	DOCK8	KIRREL3
+DOID:0060308	autosomal recessive non-syndromic intellectual disability	ANK3	GRIK2	NDST1	ST3GAL3	TAF2	TUSC3	PRSS12	CRADD	HERC2	MED23	TECR	KPTN	KIAA1033	CRBN	CC2D1A	NSUN2	LINS	FMN2	FBXO31	PGAP1	TTI2	TRAPPC9	ADAT3	METTL23
+DOID:0060309	syndromic X-linked intellectual disability	CLIC2	MECP2	KDM5C	CUL4B	ATP6AP2	UPF3B
+DOID:0070003	blastoma	DICER1
+DOID:0080016	spina bifida	MTHFD1	CCL2
+DOID:0080019	metaphyseal dysplasia	AIRE	NKX3-2	RUNX2	RMRP
+DOID:0080020	Jansen's metaphyseal chondrodysplasia	PTH1R
+DOID:0080021	Schmid metaphyseal chondrodysplasia	COL10A1
+DOID:0080022	McKusick type metaphyseal dysplasia	RMRP
+DOID:0080026	otospondylomegaepiphyseal dysplasia	COL2A1	COL11A2
+DOID:0080027	spondyloepimetaphyseal dysplasia	ACAN	KIF22	MATN3	B3GALT6
+DOID:0080030	spondyloepimetaphyseal dysplasia, Missouri type	MMP13
+DOID:0080032	craniodiaphyseal dysplasia	SOST
+DOID:0080033	craniometaphyseal dysplasia	GJA1	ANKH
+DOID:0080036	SOST-related sclerosing bone dysplasia	LRP5	SOST
+DOID:0080038	pycnodysostosis	CTSK
+DOID:0080041	hypochondroplasia	FGFR3
+DOID:0080043	achondrogenesis	COL2A1	SLC26A2	TRIP11
+DOID:0080044	hypochondrogenesis	COL2A1
+DOID:0080045	Kniest dysplasia	COL2A1
+DOID:0080046	Stickler syndrome	COL2A1	COL9A1	COL9A2	COL11A1	COL11A2
+DOID:0080047	pseudoachondroplasia	COMP
+DOID:0080050	acromesomelic dysplasia, Maroteaux type	NPR2
+DOID:0080051	acromesomelic dysplasia, Hunter-Thompson type	GDF5
+DOID:0080052	acromesomelic dysplasia, Grebe type	GDF5
+DOID:10003	sensorineural hearing loss	DLX5	GATA3	MYH9	NA	BSND	IARS2
+DOID:10024	migraine with aura	KCNK18
+DOID:10126	keratoconus	VSX1
+DOID:1024	leprosy	LTA	PARK2	TLR1	TLR2
+DOID:10241	thalassemia	HBB	HBD
+DOID:10257	NA	BCO1
+DOID:10283	prostate cancer	AR	ZFHX3	BRCA2	CDH1	KLF6	EPHB2	HIP1	CD82	MSMB	MSR1	MXI1	PTEN	RNASEL	NA	MAD1L1	CHEK2	EHBP1	ELAC2	NA	NA	NA	NA	NA
+DOID:10348	blepharophimosis	FOXL2	UBE3B
+DOID:10383	amyotrophic neuralgia	SEPT9
+DOID:1039	prolymphocytic leukemia	ATM
+DOID:10426	Klippel-Feil syndrome	MEOX1	GDF3	GDF6
+DOID:10486	intestinal atresia	TTC7A
+DOID:10487	Hirschsprung's disease	ECE1	EDN3	EDNRB	GDNF	L1CAM	RET	PHOX2B
+DOID:10526	conjunctival pterygium	CHRNA1	CHRND	CHRNG	IRF6	RIPK4
+DOID:10573	osteomalacia	FGF23
+DOID:10579	leukodystrophy	HSPD1	LMNB1	RARS	AIMP1	TUBB4A	POLR3A	TREX1	POLR3B	GJC2	FAM126A
+DOID:10581	metachromatic leukodystrophy	ARSA	PSAP
+DOID:10582	Refsum disease	PHYH
+DOID:10584	retinitis pigmentosa	ABCA4	CA4	CNGB1	CNGA1	GUCA1B	IDH3B	IMPDH1	MAK	NEK2	NRL	PDE6A	PDE6G	PDE6B	RBP3	PRPH2	RGR	RHO	ROM1	RP9	RP1	RP2	RPGR	RPE65	SAG	TULP1	USH2A	CLRN1	BEST1	OFD1	PROM1	PRPF4	PRPF3	LRAT	NR2E3	TOPORS	MERTK	PRPF8	SNRNP200	CRB1	ARL2BP	AIPL1	PRPF6	FSCN2	ABHD12	PRPF31	FLVCR1	IMPG2	SPATA7	KIZ	KLHL7	SLC7A14	SEMA4A	DHDDS	ARL6	FAM161A	CDHR1	TTC8	ZNF513	C8orf37	EYS	CERKL	C2orf71	PRCD
+DOID:10587	Krabbe disease	GALC	PSAP
+DOID:10588	adrenoleukodystrophy	ABCD1
+DOID:1059	intellectual disability	ATRX	CA8	DLG3	ACSL4	FKTN	FGD1	FGFR2	AFF2	GDI1	GRIA3	GRIN2A	HSD17B10	HCFC1	IGBP1	IGF1	KIF11	MECP2	MEF2C	OPHN1	PAK3	RPS6KA3	SMS	SOX3	ELOVL4	SYP	TSPAN7	UBE2A	VLDLR	ZNF711	ZBTB16	USP9X	CASK	AP1S2	LARGE	ARHGEF6	HDAC4	HUWE1	YAP1	SLC9A6	POMT1	MID2	IL1RAPL1	MAN1B1	IQSEC2	PHF8	CAMTA1	SLC35A3	KIF4A	FTSJ1	FOXP1	SRPX2	PGAP2	GMPPB	GMPPA	POMT2	ZDHHC9	KCNK9	ATP8A2	TMCO1	SOBP	POMGNT1	PIGV	INPP5E	SHROOM4	NLGN4X	DIP2B	FKRP	PIGO	UBE3B	PGAP3	RAB39B	WDR81	ZDHHC15	ARX	HEPACAM	BRWD3	PIGW	KIAA2022	ZNF81
+DOID:10591	pre-eclampsia	EPHX1
+DOID:10595	Charcot-Marie-Tooth disease	AARS	COX6A1	DYNC1H1	DNM2	EGR2	GARS	HOXD10	HSPB1	IGHMBP2	KARS	LMNA	MPZ	NEFL	PDK3	PMP22	PRPS1	SBF1	RAB7A	YARS	MTMR2	LITAF	FIG4	MFN2	NDRG1	KIF1B	TRIM2	HSPB8	GDAP1	DHTKD1	PLEKHG5	PRX	GNB4	INF2	SH3TC2	SBF2	MED25	FGD4
+DOID:10605	short bowel syndrome	FLNA	CLMP
+DOID:10608	celiac disease	CTLA4	HLA-DQA1	HLA-DQB1	MYO9B
+DOID:10609	rickets	CLCN5	CYP27B1	DMP1	ENPP1	PHEX	VDR	FGF23	CYP2R1	SLC34A3
+DOID:1062	Fanconi syndrome	EHHADH	SLC2A2	SLC34A1
+DOID:10629	microphthalmia	ALDH1A3	BMP4	HCCS	HMGB3	SIX6	OTX2	RARB	SHH	SOX2	NAA10	GDF3	HDAC6	ABCB6	MAB21L2	VAX1	TMEM98	RAX	BCOR	TENM3	SMOC1	STRA6	C1QTNF5	VSX2	GDF6	PRSS56
+DOID:1063	interstitial nephritis	FAN1
+DOID:10632	Wolfram syndrome	WFS1	CISD2
+DOID:1064	cystinosis	CTNS
+DOID:10652	Alzheimer's disease	A2M	ADAM10	APBB2	APOE	APP	BLMH	COL7A1	ACE	DYNC1H1	DSG1	ELN	HFE	HOXA2	IFNGR1	LMNA	MEFV	MPO	NOS3	PLAU	PSEN1	PSEN2	SLC4A1	SORL1	NA	ARHGEF10	PAXIP1	BICD2	PLD3	NA	TMEM43	NA	NA	NA
+DOID:1067	open-angle glaucoma	NTF4	OPTN	WDR36	ASB10
+DOID:1068	juvenile glaucoma	CYP1B1
+DOID:1070	primary open angle glaucoma	MYOC
+DOID:1074	kidney failure	SCARB2	SARS2
+DOID:10763	hypertension	AGT	CYP3A5	CYP11B2	ECE1	GNB3	KCNMB1	NR3C2	NOS2	NOS3	NPR3	NA	RETN	NA	NA	NA	NA	NA
+DOID:10772	thrombotic thrombocytopenic purpura	ADAMTS13
+DOID:10780	primary polycythemia	EPAS1	EPOR	VHL	EGLN1
+DOID:10783	methemoglobinemia	CYB5A	CYB5R3
+DOID:10825	essential hypertension	ADD1	AGTR1	PTGIS	ACSM3
+DOID:10871	age related macular degeneration	ABCA4	APOE	C3	CST3	CX3CR1	CFH	HTRA1	TLR4	FBLN5	HMCN1	RAX2	ARMS2
+DOID:10873	Kuhnt-Junius degeneration	HTRA1
+DOID:10892	hypospadias	AR	SRD5A2	MAMLD1
+DOID:10907	microcephaly	CDK6	CENPE	PHC1	KIF11	QARS	STIL	CASK	CRIPT	MED17	CEP135	ARFGEF2	STAMBP	PLK4	PNKP	CEP152	IER3IP1	NDE1	CDK5RAP2	CENPJ	CASC5	SLC25A19	ZNF335	MCPH1	NHEJ1	TUBGCP6	TRMT10A	ASPM	WDR62
+DOID:10908	hydrocephalus	CCND2	L1CAM	PIK3R2	MPDZ	AKT3	CCDC88C
+DOID:1091	tooth disease	AARS	COX6A1	DYNC1H1	DNM2	EGR2	GARS	HOXD10	HSPB1	IGHMBP2	KARS	LMNA	MPZ	NEFL	PDK3	PMP22	PRPS1	SBF1	RAB7A	YARS	MTMR2	LITAF	FIG4	MFN2	NDRG1	KIF1B	TRIM2	HSPB8	GDAP1	DHTKD1	PLEKHG5	PRX	GNB4	INF2	SH3TC2	SBF2	MED25	FGD4
+DOID:10923	sickle cell anemia	HBB
+DOID:10933	obsessive-compulsive disorder	BDNF	HTR2A	SLC6A4
+DOID:1094	attention deficit hyperactivity disorder	DRD4	DRD5	TPH2	NA	NA	NA	NA
+DOID:10952	nephritis	AGT	AGTR1	FXYD2	ACE	EGF	FCGR2A	GATA3	REN	CLDN16	VPS33B	FAM20A	CNNM2	VIPAS39	CLDN19
+DOID:10970	spastic quadriplegia	GAD1	ELOVL4	KANK1
+DOID:10976	membranous glomerulonephritis	MME
+DOID:10983	Alport syndrome	COL4A3	COL4A4	COL4A5
+DOID:1099	alpha thalassemia	ATRX	HBA1	HBA2
+DOID:11054	urinary bladder cancer	FGFR3	HRAS	KRAS	RB1	TACC3
+DOID:1107	esophageal carcinoma	DCC	RNF6
+DOID:11077	brucellosis	MEFV
+DOID:11105	fundus albipunctatus	RDH5	PRPH2	RHO	RLBP1
+DOID:11119	Gilles de la Tourette syndrome	HDC	SLITRK1
+DOID:11123	Henoch-Schoenlein purpura	FCGR2A
+DOID:1115	sarcoma	EWSR1	IL6	SDHB	SDHC	SDHD	SSX1	SSX2	SS18	ASPSCR1
+DOID:11156	anhidrosis	NTRK1
+DOID:11193	syndactyly	GJA1	HOXD13	LRP4	GDF5	NOG	LMBR1	PVRL4	BHLHA9
+DOID:11198	DiGeorge syndrome	TBX1
+DOID:11199	hypoparathyroidism	GATA3	PTH	TBCE	GCM2
+DOID:11202	primary hyperparathyroidism	CDC73
+DOID:1123	spondyloarthropathy	HLA-B
+DOID:11249	vitamin K deficiency hemorrhagic disease	GGCX	VKORC1
+DOID:11259	NA	RAG1
+DOID:11294	arteriovenous malformation	RASA1
+DOID:11335	sarcoidosis	HLA-DRB1	BTNL2	NOD2
+DOID:11367	congenital aphakia	FOXE3
+DOID:11372	megacolon	KIAA1279
+DOID:11383	cryptorchidism	INSL3	RXFP2
+DOID:114	heart disease	CD36	MMP3	KALRN
+DOID:11405	diphtheria	HBEGF
+DOID:11476	osteoporosis	CALCR	COL1A1	COL1A2	LRP5	PLS3	SLC34A1	UGT2B17	VDR	WNT1	PDLIM4	SLC9A3R1	NA	NA
+DOID:1148	polydactyly	CCND2	GLI3	NEK1	PIK3R2	PITX1	ZNF141	IFT140	AKT3	IFT172	WDR60	WDR35	IFT80	WDR19	LMBR1	DYNC2H1	TTC21B	WDR34
+DOID:11512	hepatic vein thrombosis	F5	JAK2
+DOID:11555	Fuchs' endothelial dystrophy	COL8A2	ZEB1	SLC4A11	AGBL1
+DOID:1156	chondrocalcinosis	ANKH
+DOID:11589	Riley-Day syndrome	IKBKAP
+DOID:11613	hyperandrogenism	CYP21A2	WNT4
+DOID:11633	thyroid hormone resistance syndrome	THRB
+DOID:1168	familial hyperlipidemia	USF1
+DOID:11714	gestational diabetes	GCK
+DOID:11717	neonatal diabetes mellitus	GCK	INS	KCNJ11	PLAGL1	ABCC8	ZFP57
+DOID:11719	oculopharyngeal muscular dystrophy	PABPN1
+DOID:11720	distal muscular dystrophy	CAV3	FLNC	MYH7	TIA1	DYSF	ANO5
+DOID:11721	glycogen storage disease VII	PFKM
+DOID:11723	Duchenne muscular dystrophy	DMD
+DOID:11724	limb-girdle muscular dystrophy	CAPN3	CAV3	DES	LMNA	PLEC	SGCA	SGCB	SGCD	SGCG	TTN	DYSF	TCAP	MYOT	HNRNPDL	DNAJB6	TRIM32	TNPO3	TRAPPC11	ANO5
+DOID:11725	Cornelia de Lange syndrome	RAD21	SMC1A	SMC3	NIPBL	HDAC8
+DOID:11726	Emery-Dreifuss muscular dystrophy	EMD	FHL1	LMNA	SYNE2	SYNE1	TMEM43
+DOID:1173	NA	PRKCSH	SEC63
+DOID:11758	iron deficiency anemia	TMPRSS6
+DOID:11802	NA	HADHA	HADHB	HSD17B4
+DOID:11830	myopia	COL2A1	LRPAP1	SCO2	P3H2	ZNF644	SLITRK6	ADAMTS18	PRIMPOL	SLC39A5
+DOID:11836	clubfoot	PITX1
+DOID:1184	nephrotic syndrome	ARHGDIA	EMP2	LAMB2	NPHS1	PTPRO	WT1	NPHS2	DGKE	PLCE1	ADCK4
+DOID:11870	Pick's disease	MAPT	NPC1	PSEN1	SMPD1	NPC2
+DOID:1188	mononeuropathy	SH3TC2
+DOID:11949	Creutzfeldt-Jakob disease	HLA-DQB1	PRNP
+DOID:11971	synostosis	FLNB	HOXA11
+DOID:11975	coloboma of optic nerve	PAX6
+DOID:11981	morbid obesity	PPARG	SIM1	UCP3	CEP19
+DOID:11983	Prader-Willi syndrome	NDN	SNRPN	MAGEL2
+DOID:11984	hypertrophic cardiomyopathy	ACTC1	CAV3	MYBPC3	MYH6	MYH7	MYL2	MYL3	MYO6	PLN	TNNC1	TNNI3	TNNT2	TPM1	TTN	VCL	CSRP3	PRKAG2	MYOZ2	JPH2	MYPN	MYLK2	NEXN	CALR3
+DOID:11991	osteopoikilosis	LEMD3
+DOID:12017	NA	ERCC3	FANCB	RFXANK
+DOID:12028	Conn's syndrome	CACNA1D
+DOID:1205	hypersensitivity reaction type I disease	HLA-A
+DOID:1206	Rett syndrome	FOXG1	MECP2
+DOID:12117	pulmonary alveolar microlithiasis	SLC34A2
+DOID:12119	hemosiderosis	CP
+DOID:12129	bulimia nervosa	BDNF
+DOID:12132	Wegener's granulomatosis	TAP2
+DOID:12134	factor VIII deficiency	LMAN1
+DOID:12169	carpal tunnel syndrome	TTR
+DOID:12176	goiter	NKX2-1	DICER1
+DOID:12177	common variable immunodeficiency	CD19	MS4A1	CD81	CR2	NFKB2	TNFRSF13B	ICOS	IL21	TNFRSF13C
+DOID:12205	dengue disease	CD209
+DOID:12217	Lewy body dementia	GBA	SNCB	SNCA
+DOID:12241	beta thalassemia	GATA1	HBB	NA
+DOID:12251	NA	CYP11B2
+DOID:12252	Cushing's syndrome	PRKACA
+DOID:12259	hemophilia B	F9
+DOID:1227	neutropenia	ELANE	FCGR3B	GATA1	GFI1	NA	USB1
+DOID:12270	coloboma	IGBP1	PAX6	RBP4	SALL2	SHH	GDF3	ABCB6	YAP1	TENM3	STRA6	VSX2	GDF6	NA
+DOID:12271	aniridia	PAX6	ELP4
+DOID:12306	vitiligo	NLRP1
+DOID:12308	Dubin-Johnson syndrome	ABCC2
+DOID:12336	male infertility	ACR	UBE2B
+DOID:12347	osteogenesis imperfecta	BMP1	SERPINH1	COL1A1	COL1A2	SERPINF1	PPIB	WNT1	CRTAP	TMEM38B	FKBP10	P3H1	SP7	IFITM5
+DOID:12365	malaria	CD36	CISH	CR1	FCGR2A	FCGR2B	ACKR1	G6PD	GYPA	GYPB	GYPC	HBB	ICAM1	NOS2	SLC4A1	TNF	TIRAP	NCR3
+DOID:12377	spinal muscular atrophy	ASAH1	ATP7A	DYNC1H1	DNAJB2	SMN1	SMN2	VAPB	BICD2	PLEKHG5	TRPV4	CHCHD10
+DOID:12387	nephrogenic diabetes insipidus	AQP2	AVPR2
+DOID:12388	neurohypophyseal diabetes insipidus	AVP
+DOID:1240	leukemia	ABL1	ABL2	BCL3	CBL	FLT3	KDSR	GATA1	GATA2	NF1	PAX5	PTPN11	ARHGAP26
+DOID:12449	aplastic anemia	IFNG	NBN	NA
+DOID:12531	von Willebrand's disease	GP1BA	VWF
+DOID:12554	hemolytic-uremic syndrome	CFB	C3	CFH	CFHR1	CFI	CD46	THBD	CFHR3
+DOID:12557	Duane retraction syndrome	CHN1	SALL4
+DOID:12558	chronic progressive external ophthalmoplegia	SLC25A4	DNA2	POLG	POLG2	RRM2B	C10orf2
+DOID:12583	velocardiofacial syndrome	SKI	TBX1	KIAA1279
+DOID:12603	acute leukemia	ARNT	IRF1	JAK2	KRAS	NPM1	NUMA1	PBX1	PML	RARA	STAT5B	ZBTB16	DEK	GMPS	MLLT11	ACSL6	MKL1	RBM15
+DOID:12639	pyloric stenosis	ITGA6
+DOID:12678	hypercalcemia	CASR	AP2S1	CYP24A1	GNA11
+DOID:12679	nephrocalcinosis	CLCN5
+DOID:12698	gynecomastia	HSD17B3
+DOID:127	leiomyoma	HMGA2
+DOID:1270	hereditary hemorrhagic telangiectasia	ACVRL1	ENG	GDF2	SMAD4
+DOID:12700	hyperprolactinemia	PRLR
+DOID:12704	ataxia telangiectasia	ATM	MRE11A	PCNA
+DOID:12705	Friedreich ataxia	FXN
+DOID:12712	nephronophthisis	MUC1	NPHP1	UMOD	CEP164	ZNF423	NPHP3	INVS	CEP83	WDR19	XPNPEP3	TTC21B	GLIS2	TMEM67	ANKS6	NPHP4	NEK8
+DOID:12714	Ellis-Van Creveld syndrome	EVC	EVC2
+DOID:1272	telangiectasis	ACVRL1	ATM	ATR	ENG	GDF2	SMAD4	MRE11A	PCNA	SOX18
+DOID:12721	multiple epiphyseal dysplasia	COL9A1	COL9A2	COL9A3	COMP	SLC26A2	MATN3
+DOID:12783	migraine without aura	TNF	KCNK18
+DOID:12798	mucopolysaccharidosis	GALNS	GNS	IDUA	HGSNAT
+DOID:12799	mucopolysaccharidosis II	IDS
+DOID:12800	mucopolysaccharidosis VI	ARSB
+DOID:12801	mucopolysaccharidosis III	NAGLU
+DOID:12803	Sly syndrome	GUSB
+DOID:12804	mucopolysaccharidosis IV	GLB1
+DOID:12835	quadriplegia	ELOVL4
+DOID:12849	autistic disorder	EIF4E	MECP2	PTEN	RPL10	SHANK2	CNTNAP2	NLGN3	NLGN4X	CHD8	SLC9A9
+DOID:12858	Huntington's disease	HTT	PRNP	JPH3
+DOID:12859	choreatic disease	NKX2-1
+DOID:12894	Sjogren's syndrome	SIL1
+DOID:12930	dilated cardiomyopathy	ACTC1	ACTN2	CRYAB	DES	DMD	DSG2	DSP	EYA4	FKTN	LAMA4	LMNA	MYBPC3	MYH6	MYH7	PLN	PSEN1	PSEN2	RAF1	SCN5A	SDHA	SGCD	TMPO	TNNC1	TNNI3	TNNT2	TPM1	TTN	VCL	CSRP3	TCAP	BAG3	ABCC9	LDB3	TNNI3K	GATAD1	PRDM16	MYPN	NEXN	RBM20
+DOID:12960	acrocephalosyndactylia	FGFR2
+DOID:12971	hereditary spherocytosis	EPB42
+DOID:13001	carotid stenosis	HABP2
+DOID:13025	retinopathy of prematurity	FZD4
+DOID:1307	dementia	FUS	HNRNPA1	HNRNPA2B1	MAPT	PSEN1	TNF	TUBA4A	VCP	ITM2B	CHMP2B	UBQLN2	TRPM7	C9orf72	CHCHD10
+DOID:13096	Sneddon syndrome	CECR1
+DOID:13099	Moyamoya disease	ACTA2	RNF213
+DOID:13117	paronychia	HOXC13	KRT85	FZD6	FOXN1
+DOID:1312	focal segmental glomerulosclerosis	ACTN4	MYO1E	PAX2	TRPC6	CD2AP	ANLN	INF2
+DOID:13121	deficiency anemia	TMPRSS6
+DOID:13133	HELLP syndrome	HADHA
+DOID:13137	Werdnig-Hoffmann disease	UBA1
+DOID:13189	gout	HPRT1	PRPS1	SLC17A3
+DOID:1319	brain cancer	EPHB2
+DOID:13223	uterine fibroid	HMGA2
+DOID:1324	lung cancer	FASLG	BRAF	CASP8	CHRNA3	CHRNA5	MAP3K8	CYP2A6	EGFR	ERCC6	IRF1	KRAS	MPO	SLC22A18	PIK3CA	PPP2R1B	DLEC1	RASSF1
+DOID:13250	diarrhea	GUCY2C	EPCAM	DGAT1	NEUROG3
+DOID:13268	porphyria	HFE	PPOX	UROS
+DOID:13270	erythropoietic protoporphyria	ALAS2	FECH
+DOID:13316	exocrine pancreatic insufficiency	COX4I2
+DOID:13317	hyperinsulinemic hypoglycemia	GCK	HADH	INSR	KCNJ11	SLC16A1	ABCC8
+DOID:13359	Ehlers-Danlos syndrome	COL1A1	COL1A2	COL3A1	COL5A1	TNXB	ADAMTS2	B4GALT7	NA	FKBP14	SLC39A13	CHST14
+DOID:13372	alpha 1-antitrypsin deficiency	SERPINA1
+DOID:13374	fibrodysplasia ossificans progressiva	ACVR1
+DOID:13378	Kawasaki disease	ITPKC
+DOID:1338	congenital dyserythropoietic anemia	SEC23B	KLF1	C15orf41	CDAN1
+DOID:13382	megaloblastic anemia	DHFR	MTR	MTRR	CUBN	SLC19A2	AMN
+DOID:1339	Diamond-Blackfan anemia	RPL5	RPL11	RPL15	RPL26	RPL35A	RPS7	RPS10	RPS17	RPS19	RPS24	RPS26	RPS29
+DOID:13399	color blindness	OPN1SW	OPN1MW	OPN1LW
+DOID:13481	thanatophoric dysplasia	FGFR3
+DOID:13482	Proteus syndrome	AKT1	LIFR	KMT2A
+DOID:13515	tuberous sclerosis	TSC1	TSC2
+DOID:13533	osteopetrosis	CA2	CLCN7	LRP5	TNFSF11	TNFRSF11A	PLEKHM1	TCIRG1	OSTM1	SNX10
+DOID:13543	hyperparathyroidism	CASR	CDC73
+DOID:13564	aspergillosis	CLEC7A
+DOID:13580	cholestasis	ATP8B1	ABCB4	VIL1	VPS33B	VIPAS39
+DOID:13593	eclampsia	CORIN	STOX1
+DOID:13628	favism	G6PD
+DOID:13636	Fanconi's anemia	BRCA2	ERCC4	FANCA	FANCC	FANCD2	FANCE	FANCB	FANCF	FANCG	RAD51C	FANCL	FANCI	FANCM	PALB2	BRIP1	SLX4
+DOID:13641	exfoliation syndrome	LOXL1
+DOID:13724	scurvy	NA
+DOID:13777	epidermodysplasia verruciformis	TMC6	TMC8
+DOID:13781	hypermobility syndrome	TNXB
+DOID:1380	endometrial cancer	MSH6	MLH3
+DOID:13809	familial combined hyperlipidemia	LPL
+DOID:13810	familial hypercholesterolemia	ABCA1	LDLR	LDLRAP1	PCSK9
+DOID:1386	abetalipoproteinemia	MTTP	ANGPTL3
+DOID:1388	Tangier disease	ABCA1
+DOID:13884	sick sinus syndrome	MYH6	SCN5A	HCN4
+DOID:1389	polyneuropathy	NA	DMXL2	ABHD12	SLC25A19
+DOID:1390	hypobetalipoproteinemia	APOB	ANGPTL3
+DOID:1391	Norum disease	LCAT
+DOID:13911	achromatopsia	CNGA3	GNAT2	PDE6H	CNGB3
+DOID:13994	cleidocranial dysplasia	RUNX2	MSX2
+DOID:14004	thoracic aortic aneurysm	ACTA2	MYH11	MYLK	PRKG1	MFAP5
+DOID:14038	NA	LHCGR	MKRN3	KISS1R
+DOID:14040	autoimmune polyendocrine syndrome	AIRE
+DOID:14080	glucocorticoid-remediable aldosteronism	CYP11B1
+DOID:14118	familial lipoprotein lipase deficiency	APOA5
+DOID:1415	gyrate atrophy	OAT
+DOID:14175	von Hippel-Lindau disease	CCND1	VHL
+DOID:14213	hypophosphatasia	ALPL
+DOID:14218	dihydropyrimidine dehydrogenase deficiency	DPYD
+DOID:14219	renal tubular acidosis	ATP6V1B1	CA2	SLC4A1	SLC4A4	ATP6V0A4
+DOID:14221	metabolic syndrome X	MTTP	DYRK1B
+DOID:14227	azoospermia	DAZL	NR5A1	AURKC	TAF4B	USP9Y	SYCP3	SPATA16	ZMYND15	CEP19	SLC26A8	CATSPER1	SEPT12	DPY19L2	KLHL10	NANOS1	NA
+DOID:14250	Down syndrome	GATA1
+DOID:14261	fragile X syndrome	FMR1
+DOID:14264	benign neonatal seizures	KCNQ2	KCNQ3
+DOID:14268	sclerosing cholangitis	CLDN1
+DOID:14283	primary hypertrophic osteoarthropathy	HPGD	SLCO2A1
+DOID:14291	LEOPARD syndrome	BRAF	PTPN11	RAF1
+DOID:1432	blindness	CACNA1F	NA	GRM6	TRPM1	PDE6B	RHO	SLC24A1	CABP4	NYX	LRIT3	GPR179
+DOID:14323	Marfan syndrome	FBN1
+DOID:14330	Parkinson's disease	ADH1C	EIF4G1	GBA	MAPT	PARK2	SNCA	TBP	UCHL1	PLA2G6	SYNJ1	DNAJC6	PARK7	ATP13A2	FBXO7	GIGYF2	HTRA2	VPS35	PINK1	LRRK2
+DOID:14365	systemic primary carnitine deficiency disease	SLC22A5
+DOID:1440	Machado-Joseph disease	ATXN3
+DOID:1441	spinocerebellar ataxia	ATP2B3	CACNA1A	TPP1	EEF2	FGF14	GRID2	GRM1	ITPR1	KCNC3	KCND3	PDYN	PPP2R2B	PRKCG	ATXN7	NA	SPTBN2	ELOVL4	TBP	ZNF592	KIAA0226	STUB1	NOP56	AFG3L2	SYNE1	ATXN10	ANO10	CWF19L1	TDP1	ELOVL5	TTBK2	BEAN1	SYT14	TMEM240	TGM6	CCDC88C	NA
+DOID:14415	Legg-Calve-Perthes Disease	COL2A1
+DOID:1442	Alpers syndrome	POLG
+DOID:14447	gonadal dysgenesis	DHH
+DOID:14448	46 XY gonadal dysgenesis	ZFPM2
+DOID:14451	hyperkalemic periodic paralysis	SCN4A
+DOID:14452	hypokalemic periodic paralysis	CACNA1S	SCN4A
+DOID:14497	Wolman disease	LIPA
+DOID:14498	lipoid proteinosis	ECM1
+DOID:14499	Fabry disease	GLA
+DOID:14500	fucosidosis	FUCA1
+DOID:14501	Sjogren-Larsson syndrome	ALDH3A2
+DOID:14503	neuronal ceroid lipofuscinosis	TPP1	CLN3	CLN5	CTSD	CLN8	GRN	PPT1	CTSF	ATP13A2	CLN6	DNAJC5	MFSD8
+DOID:14504	Niemann-Pick disease	NPC1	SMPD1	NPC2
+DOID:14557	primary pulmonary hypertension	BMPR2	CAV1	KCNK3	SMAD9
+DOID:1459	hypothyroidism	IGSF1	NKX2-1	PAX8
+DOID:14669	acrodysostosis	PDE4D	PRKAR1A
+DOID:14670	hypertelorism, microtia, facial clefting syndrome	FGFR2	POR
+DOID:14671	multiple intestinal atresia	TTC7A
+DOID:14679	VACTERL association	HOXD13	PTEN	ZIC3
+DOID:14681	Silver-Russell syndrome	H19
+DOID:14686	Axenfeld-Rieger syndrome	FGFR2	FOXC1	PITX2
+DOID:14687	diastrophic dysplasia	SLC26A2
+DOID:14692	Smith-Lemli-Opitz syndrome	DHCR7
+DOID:14694	Johanson-Blizzard syndrome	UBR1
+DOID:14695	galactokinase deficiency	GALK1
+DOID:14699	thrombocytopenia-absent radius syndrome	RBM8A
+DOID:1470	major depressive disorder	FKBP5	HTR2A	NA	NA
+DOID:14702	branchiootorenal syndrome	EYA1	SIX5
+DOID:14705	Pfeiffer syndrome	FGFR1	FGFR2
+DOID:14711	FG syndrome	FLNA	CASK	MED12
+DOID:14717	centronuclear myopathy	BIN1	DNM2	MTM1	MYF6	SPEG	MTMR14	CCDC78
+DOID:14720	type I Ehlers-Danlos syndrome	COL1A1	COL5A1	COL5A2
+DOID:14731	Weaver syndrome	EZH2
+DOID:14735	hereditary angioedema	SERPING1	F12
+DOID:14737	craniofrontonasal syndrome	EFNB1
+DOID:1474	aggressive periodontitis	CTSC
+DOID:14743	trichorhinophalangeal syndrome type I	TRPS1
+DOID:14744	Partington syndrome	ARX
+DOID:14748	Sotos syndrome	NFIX	NSD1
+DOID:14749	methylmalonic acidemia	HCFC1	MUT	ABCD4	SUCLG1	SUCLA2	MMACHC	MMADHC	CD320	LMBRD1	MMAA	ACSF3	MMAB
+DOID:14753	isovaleric acidemia	GALNS	IVD
+DOID:14755	argininosuccinic aciduria	ASL
+DOID:14757	type III Ehlers-Danlos syndrome	COL3A1
+DOID:14761	Greig cephalopolysyndactyly syndrome	GLI3
+DOID:14764	Larsen syndrome	FLNB
+DOID:14766	renal agenesis	RET	ITGA8	FGF20
+DOID:14768	Saethre-Chotzen syndrome	FGFR2	TWIST1
+DOID:14773	cartilage-hair hypoplasia	RMRP
+DOID:14775	type VI Ehlers-Danlos syndrome	PLOD1	PRDM5	ZNF469
+DOID:14780	KBG syndrome	ANKRD11
+DOID:14784	olivopontocerebellar atrophy	ATXN1	ATXN2
+DOID:14787	NA	MED12
+DOID:14791	Leber congenital amaurosis	CRX	GUCY2D	IMPDH1	KCNJ13	PRPH2	RPE65	TULP1	LRAT	CRB1	AIPL1	SPATA7	RPGRIP1	NMNAT1	CEP290	RDH12	LCA5	RD3	GDF6
+DOID:14793	hypohidrotic ectodermal dysplasia	EDA	EDAR	EDARADD
+DOID:1485	cystic fibrosis	CFTR	FCGR2A	TGFB1
+DOID:1508	candidiasis	TRAF3IP2	IL17RA	CARD9	CLEC7A	IL17F
+DOID:1540	parathyroid carcinoma	CDC73
+DOID:1542	head and neck carcinoma	ING1	PTEN	TNFRSF10B
+DOID:1558	angioedema	XPNPEP2
+DOID:1588	thrombocytopenia	GATA1	HOXA11	ITGA2B	MPL	WAS	RBM8A	ANKRD26	CYCS	MASTL
+DOID:1595	endogenous depression	TPH2
+DOID:161	keratosis	DSG1	DSP	KRT1	POMP
+DOID:1612	breast cancer	AKT1	AR	ATM	BARD1	BRCA1	BRCA2	CASP8	CDH1	ESR1	HMMR	KRAS	NQO2	SLC22A18	PHB	PIK3CA	RAD51	RAD51C	RAD51D	TP53	TSG101	XRCC3	NA	RAD54L	PPM1D	RB1CC1	CHEK2	PALB2	BRIP1
+DOID:1618	breast fibroadenoma	PRLR
+DOID:162	cancer	APC	CASP10	CDH1	CDKN2A	KLF6	ERBB2	FGFR2	FGFR4	MSH6	IL1B	IL1RN	IRF1	KRAS	MLH1	MSH2	MUTYH	PDGFRL	PIK3CA	PMS2
+DOID:1657	ventricular septal defect	NKX2-5	GATA4	CITED2
+DOID:1673	pneumothorax	FLCN
+DOID:1682	congenital heart disease	NKX2-5	DTNA	GATA4	GATA6	NR2F2	ZIC3	TAB2	B3GAT3	WDPCP	NKX2-6
+DOID:1686	glaucoma	FOXC1	LTBP2	OPA1	OPTN
+DOID:1695	NA	POMP
+DOID:1697	NA	ALOX12B	STS	CSTA	FLG	GJB2	KRT1	KRT2	KRT10	LOR	ST14	ELOVL4	TGM1	CLDN1	SNAP29	SLC27A4	ABCA12	POMP	ALOXE3	CYP4F22	CERS3	PNPLA1	NIPAL4	LIPN
+DOID:1700	X-linked ichthyosis	STS
+DOID:1702	ichthyosis vulgaris	FLG
+DOID:1712	aortic valve stenosis	ELN
+DOID:1749	squamous cell carcinoma	FAS	ING1	PTEN	TNFRSF10B	LZTS1	DEC1	WWOX	RSPO1
+DOID:178	vascular disease	MTHFR
+DOID:1787	pericarditis	PRG4
+DOID:1793	pancreatic cancer	ACVR1B	BRCA1	BRCA2	CDKN2A	SMAD4	STK11	TP53	NA	PALLD	PALB2
+DOID:182	calcinosis	GALNT3	FGF23	KL	SAMD9
+DOID:1826	epilepsy syndrome	ALDH7A1	CACNB4	CASR	SCARB2	CLCN2	CLN8	GABRA1	GABRB3	GABRD	GABRG2	GRIN2A	KCNMA1	ME2	MEF2C	SCN1A	SCN1B	SCN9A	SLC2A1	SYN1	ST3GAL5	CACNA1H	DEPDC5	IER3IP1	SNIP1	STRADA	EFHC1	KCTD7
+DOID:1827	idiopathic generalized epilepsy	GABRD
+DOID:1837	diabetic ketoacidosis	PAX4
+DOID:1838	Menkes disease	ATP7A
+DOID:1852	intrahepatic cholestasis	ATP8B1	ABCB4	ABCB11	TJP2
+DOID:1856	cherubism	SH3BP2
+DOID:1858	McCune Albright syndrome	GNAS
+DOID:1882	atrial heart septal defect	ACTC1	NKX2-5	GATA4	GATA6	MYH6	TLL1	CITED2	TBX20
+DOID:1883	hepatitis C	CCR5	IFNG	PTPRC	IFNL3
+DOID:1909	melanoma	BRAF	CDK4	CDKN2A	MC1R	MITF	PTEN	STK11	TERT	TYR	XRCC3	POT1
+DOID:1919	Lesch-Nyhan syndrome	HPRT1
+DOID:1920	hyperuricemia	UMOD	SARS2
+DOID:1921	Klinefelter's syndrome	NR0B1	DUSP6	FGF8	FGFR1	NA	GNRHR	KAL1	KISS1	TAC3	TACR3	FGF17	HS6ST1	SEMA3A	POLR3A	FLRT3	NSMF	RNF216	IL17RD	CHD7	POLR3B	WDR11	PROK2	SPRY4	KISS1R	PROKR2	FEZF1
+DOID:1924	hypogonadism	NR0B1	DUSP6	FGF8	FGFR1	NA	GNRHR	KISS1	LHCGR	TAC3	TACR3	FGF17	HS6ST1	SEMA3A	POLR3A	FLRT3	NSMF	RNF216	IL17RD	CHD7	POLR3B	WDR11	PROK2	SPRY4	KISS1R	PROKR2	FEZF1
+DOID:1926	Gaucher's disease	GBA	PSAP
+DOID:1932	Angelman syndrome	MECP2	CDKL5	UBE3A
+DOID:1933	Rubinstein-Taybi syndrome	CREBBP	EP300
+DOID:1934	dysostosis	EVC	EFTUD2	SF3B4	ZSWIM6
+DOID:1935	Bardet-Biedl syndrome	BBS1	BBS2	BBS4	NA	SDCCAG8	IFT27	TRIM32	BBS9	WDPCP	LZTFL1	MKS1	BBS7	CCDC28B	BBS10	CEP290	ARL6	TMEM67	BBIP1	TTC8	BBS5	BBS12
+DOID:1936	atherosclerosis	ALOX5
+DOID:2018	hyperinsulinism	GLUD1
+DOID:203	exostosis	EXT1	EXT2
+DOID:2043	hepatitis B	IFNAR2	IFNGR1	IL10RB
+DOID:205	hyperostosis	LRP5	PTDSS1	COX4I2
+DOID:2106	Thomsen disease	CLCN1	SCN4A
+DOID:2120	focal dermal hypoplasia	PORCN
+DOID:2121	NA	CDH3	EDA	HOXC13	KRT85	MSX1	NFKBIA	PKP1	PVRL1	IKBKG	TP63	GJB6	EDAR	NLRP1	GRHL2	PVRL4	EDARADD
+DOID:2129	atypical teratoid rhabdoid tumor	SMARCA4
+DOID:2154	nephroblastoma	BRCA2	GPC3	WT1	POU6F2	H19
+DOID:2186	NA	PTEN	TBC1D7	RIN2	RNF135
+DOID:2187	amelogenesis imperfecta	AMELX	DLX3	MMP20	KLK4	ENAM	FAM20A	SLC24A4	C4orf26	WDR72	FAM83H
+DOID:219	colon cancer	PTPN12	PTPRJ	SRC	AURKA	RAD54B
+DOID:2213	hemorrhagic disease	SERPINA1
+DOID:2215	factor VII deficiency	F7
+DOID:2216	factor V deficiency	F5	IGFALS	LMAN1	MCFD2
+DOID:2217	Bernard-Soulier syndrome	GP1BA	GP1BB	GP9
+DOID:2218	blood platelet disease	ACTN1	RUNX1	GP1BB	ITGA2B	ITGB3	PLAU	PRKACG	GFI1B	RASGRP2	GP6	P2RY12
+DOID:2219	Glanzmann's thrombasthenia	ITGA2B	ITGB3
+DOID:2222	factor X deficiency	F10
+DOID:2228	thrombocytosis	CALR	JAK2	MPL	THPO	SH2B3
+DOID:2229	factor XI deficiency	F11
+DOID:2230	NA	F8	F9
+DOID:2231	factor XII deficiency	F12
+DOID:2232	NA	GGCX
+DOID:2234	focal epilepsy	CNTNAP2
+DOID:2235	prothrombin deficiency	F2
+DOID:2236	congenital afibrinogenemia	FGA	FGB	FGG	CFI
+DOID:2237	hepatitis	CCR5	IFNAR2	IFNG	IFNGR1	IL10RB	IFNL3
+DOID:2256	osteochondrodysplasia	ABCC9
+DOID:227	ankylosis	NOG
+DOID:2280	hidradenitis suppurativa	PSEN1	NCSTN	PSENEN
+DOID:230	lateral sclerosis	ANG	DCTN1	ERBB4	FUS	HNRNPA1	NEFH	PFN1	PRPH	ATXN2	SOD1	TUBA4A	VCP	VAPB	MATR3	FIG4	OPTN	SIGMAR1	SETX	TARDBP	CHMP2B	UBQLN2	TRPM7	ALS2	C9orf72	CHCHD10
+DOID:2339	Crouzon syndrome	FGFR3	FGFR2
+DOID:234	colon adenocarcinoma	RAD54L
+DOID:2340	craniosynostosis	ERF	FGFR2	IL11RA	MSX2	TCF12	TWIST1	CYP26B1	ALX4
+DOID:2350	NA	STEAP3
+DOID:2352	hemochromatosis	BMP2	FTH1	HFE	TFR2	SLC40A1	HAMP	HFE2
+DOID:2355	anemia	ABCB7	GATA1	HBA1	HBA2	HBB	NT5C3A	STEAP3	COX4I2
+DOID:2361	macrocytic anemia	RPS14
+DOID:2367	neuroaxonal dystrophy	PLA2G6
+DOID:2368	gangliosidosis	GLB1	GM2A	HEXA
+DOID:2377	multiple sclerosis	HLA-DQB1	HLA-DRB1	PDCD1	TNFRSF1A
+DOID:2394	ovarian cancer	AKT1	BRCA1	BRCA2	CTNNB1	ERBB2	OPCML	PIK3CA	RAD51C	RAD51D
+DOID:2417	NA	NRAS
+DOID:2446	NA	GHRH
+DOID:2449	acromegaly	GNAS
+DOID:2451	protein S deficiency	PROS1
+DOID:2452	thrombophilia	SERPINC1	F2	F5	F9	SERPIND1	HRG	PLAT	PROC	THBD
+DOID:2476	hereditary spastic paraplegia	AMPD2	KIF1A	ENTPD1	B4GALNT1	HSPD1	KIF5A	PLP1	RTN2	SPAST	SPG7	AP4M1	SLC33A1	CYP7B1	TECPR2	KIAA0196	AP5Z1	TFG	AP4B1	PNPLA6	AP4S1	ERLIN2	CCT5	NT5C2	ARL6IP1	DDHD2	AP4E1	ZFYVE26	BSCL2	ATL1	REEP2	GJC2	GBA2	REEP1	FA2H	SPG11	DDHD1	C19orf12	C12orf65	CYP2U1	ZFYVE27	NIPA1	VPS37A
+DOID:2477	motor peripheral neuropathy	HK1	MFN2	TFG	TRPV4
+DOID:2487	NA	ABCA1	APOA2	APOB	EPHX2	GHR	ITIH4	LDLR	PPP1R17	LDLRAP1	PCSK9
+DOID:2491	sensory peripheral neuropathy	ELAVL4	MFN2	TFG	IARS2	TRPV4
+DOID:2512	nevoid basal cell carcinoma syndrome	PTCH1	PTCH2	SUFU
+DOID:2513	basal cell carcinoma	PTCH1	RASA1	SMO	TP53	PTCH2
+DOID:2519	testicular disease	GATA4
+DOID:2528	NA	MPL
+DOID:255	hemangioma	FLT4	KDR	ANTXR1
+DOID:2565	macular corneal dystrophy	CHST6
+DOID:2566	corneal dystrophy	COL8A2	DCN	KRT3	KRT12	TACSTD2	PAX6	ZEB1	TGFBI	UBIAD1	VSX1	SLC4A11	PIKFYVE
+DOID:2569	retinal drusen	CFH
+DOID:2580	rhizomelic chondrodysplasia punctata	PEX7	GNPAT	AGPS
+DOID:2583	agammaglobulinemia	BTK	CD79A	CD79B	NA	IGLL1	PIK3R1	BLNK	LRRC8A
+DOID:2590	familial nephrotic syndrome	ITGA3
+DOID:2626	choroid plexus papilloma	TP53
+DOID:263	kidney cancer	FH
+DOID:2681	NA	FGFR3	HRAS	KRT4	KRT13	NRAS	PIK3CA	PTCH1	PTCH2	SUFU
+DOID:2717	bloom syndrome	BLM
+DOID:2722	acrodermatitis	SLC39A4
+DOID:2723	dermatitis	FLG
+DOID:2725	capillary hemangioma	FLT4	KDR
+DOID:2729	dyskeratosis congenita	DKC1	NA	TERT	TINF2	RTEL1	WRAP53	NOP10	NHP2
+DOID:2730	epidermolysis bullosa	CD151	COL7A1	DSP	ITGA6	ITGA3	ITGB4	LAMA3	EXPH5
+DOID:2732	Rothmund-Thomson syndrome	RECQL4
+DOID:2734	keratosis follicularis	ATP2A2	SAT1	MBTPS2
+DOID:2736	Hajdu-Cheney syndrome	NOTCH2
+DOID:2738	pseudoxanthoma elasticum	ABCC6	GGCX	XYLT1	XYLT2
+DOID:2739	Gilbert syndrome	UGT1A1
+DOID:2741	bilirubin metabolic disorder	SLCO1B1	SLCO1B3	UGT1A1
+DOID:2746	glycogen storage disease V	PYGM
+DOID:2747	glycogen storage disease	AGL	ALDOA	ENO3	G6PC	SLC37A4	GYS1	GYS2	LDHA	PGAM2	PHKA1	PHKA2	PHKG2	PRKAG2
+DOID:2750	glycogen storage disease IV	GBE1
+DOID:2752	glycogen storage disease II	GAA
+DOID:2754	glycogen storage disease VI	PYGL
+DOID:2841	asthma	ADRB2	ALOX5	CHI3L1	HLA-G	HNMT	IL12B	IL13	MUC7	PTGDR	PTGER2	CCL11	TNF	PLA2G7	IRAK3	TBX21	PHF11	SCGB3A2	NPSR1
+DOID:2842	Jervell-Lange Nielsen syndrome	KCNE1	KCNQ1
+DOID:2843	long QT syndrome	ANK2	CAV3	KCNE1	KCNH2	KCNJ5	KCNQ1	SCN4B	SCN5A	SNTA1	KCNE2	AKAP9	ALG10
+DOID:2855	hyperthyroxinemia	ALB	TTR
+DOID:2871	endometrial carcinoma	CDH1	MSH3	PTEN
+DOID:2908	Treacher Collins syndrome	TCOF1	EFTUD2	POLR1C	POLR1D
+DOID:2935	Chediak-Higashi syndrome	LYST
+DOID:2945	severe acute respiratory syndrome	CLEC4M
+DOID:2960	photosensitive trichothiodystrophy	ERCC2	ERCC3	MPLKIP	GTF2H5
+DOID:2962	Cockayne syndrome	ERCC8	ERCC4	ERCC5	ERCC6
+DOID:2975	cystic kidney	MUC1	HNF1B	UMOD	BICC1
+DOID:2977	primary hyperoxaluria	AGXT	GRHPR	HOGA1
+DOID:2987	familial Mediterranean fever	MEFV
+DOID:2988	antiphospholipid syndrome	NA
+DOID:299	adenocarcinoma	BRAF	EGFR	ERBB2	MSR1	PARK2	RAD54L	ASCC1	CTHRC1
+DOID:2994	germ cell cancer	BCL10
+DOID:2997	Sertoli-Leydig cell tumor	DICER1
+DOID:2998	testicular cancer	STK11
+DOID:3012	Li-Fraumeni syndrome	TP53	CHEK2
+DOID:305	carcinoma	CASP8	CDH1	CTNNB1	DCC	HRAS	IGF2R	KRAS	MET	MSH3	NRAS	NTRK1	OGG1	PCM1	PIK3CA	PRCC	PRKAR1A	PTCH1	PTEN	RASA1	RBBP8	RET	RNF6	SDHD	SMO	HNF1A	HNF1B	TFE3	TGFBR1	TP53	VHL	NCOA4	NA	AXIN1	PTCH2	TRIM24	MINPP1	GOLGA5	SEPT9	RNF139	RRAS2	CRTC1	NDUFA13	TRIM33	CDC73	MAML2	DIRC2	FLCN
+DOID:306	NA	ADCY5	DNAH5	KCNMA1	SPAG1	DNAH11	LRRC6	PNKD	DNAI1	NME8	ZMYND10	HYDIN	DNAAF5	CCDC40	ARMC4	DNAAF2	C21orf59	DNAI2	DNAL1	CCDC65	RSPH1	DRC1	CCDC114	PRRT2	CCDC151	DNAAF1	DYX1C1	RSPH9	CCDC39	RSPH4A	DNAAF3	CCDC103
+DOID:3070	malignant glioma	IDH1	PTEN	TP53
+DOID:308	early myoclonic encephalopathy	ASAH1	CNTN2	TBC1D24	EFHC1
+DOID:3082	interstitial lung disease	ITGA3
+DOID:3083	chronic obstructive pulmonary disease	MMP1	PLCG2	NLRC4	NLRP12	NLRP3
+DOID:3093	nervous system cancer	CDKN2A
+DOID:3113	papillary carcinoma	CCDC6
+DOID:3125	NA	CDKN1B	MEN1	RET
+DOID:3132	porphyria cutanea tarda	HFE	UROD
+DOID:3133	acute porphyria	ALAD
+DOID:3138	acanthosis nigricans	FGFR3	INSR
+DOID:3144	cutis laxa	ELN	PYCR1	ALDH18A1	LTBP4	FBLN5	ATP6V0A2	EFEMP2	RIN2
+DOID:3151	skin squamous cell carcinoma	RSPO1
+DOID:3191	nemaline myopathy	ACTA1	CFL2	NEB	TNNT1	TPM2	TPM3	KLHL41	LMOD3	KLHL40	KBTBD13
+DOID:3204	neurilemmomatosis	NF2	SMARCB1	LZTR1
+DOID:3209	junctional epidermolysis bullosa	COL17A1	ITGB4	LAMA3	LAMB3	LAMC2
+DOID:3210	Pelizaeus-Merzbacher disease	PLP1
+DOID:3246	embryonal rhabdomyosarcoma	DICER1
+DOID:3247	rhabdomyosarcoma	SLC22A18
+DOID:3263	piebaldism	KIT	SNAI2
+DOID:3265	chronic granulomatous disease	CYBA	CYBB	NCF2	XK	NCF1
+DOID:3314	angiomyolipoma	IFNG
+DOID:3315	lipoma	LPP	MEN1
+DOID:3319	lymphangioleiomyomatosis	TSC1	TSC2
+DOID:332	amyotrophic lateral sclerosis	DCTN1	FUS	NEFH	PRPH	TUBA4A	MATR3	TRPM7
+DOID:3320	Tay-Sachs disease	HEXA
+DOID:3323	Sandhoff disease	HEXB
+DOID:3326	purpura	FCGR2A	ADAMTS13
+DOID:3328	temporal lobe epilepsy	LGI1	CPA6
+DOID:3329	benign epilepsy with centrotemporal spikes	SRPX2
+DOID:3331	frontal lobe epilepsy	CHRNA2	CHRNA4	CHRNB2	KCNT1
+DOID:3343	mucolipidosis	NEU1	MCOLN1	GNPTAB	GNPTG
+DOID:3347	osteosarcoma	RB1	TP53	CHEK2
+DOID:3369	peripheral primitive neuroectodermal tumor	EWSR1
+DOID:3371	chondrosarcoma	EXT1
+DOID:3382	liposarcoma	NA
+DOID:3389	Papillon-Lefevre disease	CTSC
+DOID:3390	palmoplantar keratosis	AQP5	DSC2	DSG1	KRT1	KRT9	SERPINB7	SNAP29	KANK2	AAGAB
+DOID:3393	coronary artery disease	ABCA1	CD36	CX3CR1	LRP6	MEF2A	MMP3	PON2	KALRN
+DOID:3405	histiocytosis	SLC29A3
+DOID:3413	alpha-mannosidosis	MAN2B1
+DOID:3414	NA	MAN2B1	MANBA
+DOID:3429	inclusion body myositis	HNRNPA1	HNRNPA2B1	MYH2	GNE
+DOID:3443	mammary Paget's disease	TNFRSF11B	VCP
+DOID:3490	Noonan syndrome	BRAF	CBL	KRAS	NF1	NRAS	PTPN11	RAF1	RIT1	SOS1	SHOC2
+DOID:3491	Turner syndrome	HDAC8
+DOID:3507	dermatofibrosarcoma protuberans	PDGFB
+DOID:3512	neurofibrosarcoma	MXI1
+DOID:3526	cerebral infarction	NOTCH3	PRKCH
+DOID:3529	central core myopathy	RYR1
+DOID:3565	meningioma	MN1	NF2	PDGFB	PTEN	SMARCE1	SUFU	NA
+DOID:3590	gestational trophoblastic neoplasm	KHDC3L	NLRP7
+DOID:3612	retinitis	ABCA4	CA4	CNGB1	CNGA1	GUCA1B	IDH3B	IMPDH1	MAK	NEK2	NRL	PDE6A	PDE6G	PDE6B	RBP3	PRPH2	RGR	RHO	RLBP1	ROM1	RP9	RP1	RP2	RPGR	RPE65	SAG	TULP1	USH2A	CLRN1	BEST1	OFD1	PROM1	PRPF4	PRPF3	LRAT	NR2E3	TOPORS	MERTK	PRPF8	SNRNP200	CRB1	ARL2BP	AIPL1	PRPF6	FSCN2	ABHD12	PRPF31	FLVCR1	IMPG2	SPATA7	KIZ	KLHL7	SLC7A14	SEMA4A	DHDDS	ARL6	FAM161A	CDHR1	TTC8	ZNF513	C8orf37	EYS	CERKL	C2orf71	PRCD
+DOID:3613	Canavan disease	NA
+DOID:3614	Kallmann syndrome	KAL1
+DOID:3627	aortic aneurysm	FBN1
+DOID:3633	beta-mannosidosis	MANBA
+DOID:3635	congenital myasthenic syndrome	CHRNA1	CHRNB1	CHRND	CHRNE	DOK7
+DOID:3649	pyruvate decarboxylase deficiency	DLAT	PDHA1	PDHB	LIAS	PDP1
+DOID:3650	lactic acidosis	ISCU	YARS2
+DOID:3652	Leigh disease	BCS1L	COX10	COX15	NDUFA2	NDUFA9	NDUFA10	NDUFS3	NDUFS4	NDUFS8	SDHA	SURF1	LRPPRC	FOXRED1	NDUFA12	SERAC1	NDUFAF2	NDUFAF6	NDUFS7
+DOID:3659	sialuria	GNE
+DOID:3672	rhabdoid cancer	SMARCA4	SMARCB1
+DOID:37	skin disease	EGFR	ADAM17
+DOID:3713	ovary adenocarcinoma	PARK2
+DOID:3753	Hermansky-Pudlak syndrome	HPS1	AP3B1	HPS5	BLOC1S6	HPS6	DTNBP1	HPS3	HPS4	BLOC1S3
+DOID:3755	antithrombin III deficiency	SERPINC1
+DOID:3756	protein C deficiency	PROC
+DOID:3762	cytochrome-c oxidase deficiency disease	COX6B1	COX10	NA	TACO1	APOPT1	COX14	COX20	COA5	PET100
+DOID:3763	hermaphroditism	RSPO1
+DOID:3764	Denys-Drash syndrome	WT1
+DOID:3765	pseudohermaphroditism	HSD17B3	LHCGR
+DOID:3770	pulmonary fibrosis	NA	TERT	FAM111B	SFTPA1	MUC5B	SFTPA2
+DOID:3783	Coffin-Lowry syndrome	RPS6KA3
+DOID:3803	Crigler-Najjar syndrome	UGT1A1
+DOID:3805	porokeratosis	MVK	SLC17A9
+DOID:381	arthropathy	MMP2	WISP3	PRG4	TRPV4
+DOID:3827	congenital diaphragmatic hernia	ZFPM2
+DOID:3829	pituitary adenoma	GNAI2
+DOID:384	Wolff-Parkinson-White syndrome	PRKAG2
+DOID:3852	Peutz-Jeghers syndrome	STK11
+DOID:3878	intestinal pseudo-obstruction	FLNA	L1CAM
+DOID:3883	Lynch syndrome	MSH6	EPCAM	MLH1	MSH2	PMS2	TGFBR2	MLH3
+DOID:3890	acute intermittent porphyria	HMBS
+DOID:3905	lung carcinoma	RB1
+DOID:3910	lung adenocarcinoma	BRAF	EGFR	ERBB2	PARK2
+DOID:3911	progeria	LMNA	BANF1
+DOID:3950	adrenal carcinoma	TP53
+DOID:3962	follicular thyroid carcinoma	HRAS	NRAS	PTEN	MINPP1
+DOID:3963	thyroid carcinoma	CCDC6	NDUFA13
+DOID:3965	Merkel cell carcinoma	SDHD
+DOID:3969	papillary thyroid carcinoma	PCM1	PRKAR1A	NCOA4	TRIM24	GOLGA5	TRIM33
+DOID:397	restrictive cardiomyopathy	TNNI3	TNNT2	MYPN
+DOID:3973	thyroid medullary carcinoma	RET
+DOID:3981	pantothenate kinase-associated neurodegeneration	PANK2
+DOID:399	tuberculosis	CISH	SP110	IFNG	IFNGR1	MC3R	CCL2	SLC11A1	TLR2	CD209	NA	TIRAP	IRGM
+DOID:4001	ovarian carcinoma	CDH1	SEPT9	RRAS2
+DOID:4026	NA	TTPA
+DOID:4051	alveolar rhabdomyosarcoma	FOXO1	PAX3	PAX7
+DOID:409	liver disease	PRKCSH	SEC63
+DOID:4154	dentinogenesis imperfecta	DSPP
+DOID:4159	skin cancer	ATR
+DOID:417	hypersensitivity reaction type II disease	STAT3	TG	FOXD3	SIAE	ZFAT	ITCH
+DOID:4183	pseudopseudohypoparathyroidism	GNAS
+DOID:4184	pseudohypoparathyroidism	GNAS	STX16	GNAS-AS1
+DOID:420	hypertrichosis	ABCC9
+DOID:4228	NA	SDHB	SDHC	SDHD
+DOID:423	myopathy	ACTA1	ACTG2	AMPD1	ATP2A1	CNTN1	COL9A3	CPT2	CRYAB	DES	FHL1	FLNC	GFER	GYG1	HRAS	MYH7	RYR1	STIM1	TPM2	TPM3	TTN	VCP	DYSF	MYOT	BAG3	GNE	MICU1	RBCK1	LDB3	ISCU	YARS2	FKBP14	PNPLA2	SEPN1	MYH14	MEGF10	ORAI1	STAC3	FAM111B
+DOID:4239	alveolar soft part sarcoma	ASPSCR1
+DOID:4252	Alexander disease	GFAP
+DOID:4253	melorheostosis	LEMD3
+DOID:4254	osteosclerosis	LRP5
+DOID:4257	Caffey disease	COL1A1
+DOID:4362	cervical cancer	FGFR3
+DOID:437	myasthenia gravis	CHRNG
+DOID:440	neuromuscular disease	RYR1
+DOID:4415	fibrous histiocytoma	CREB1	MTAP	MFHAS1
+DOID:4425	NA	ASAH1
+DOID:4428	dyslexia	KIAA0319	DYX1C1
+DOID:4448	macular degeneration	CFB	C2	C9	ERCC6	FBN2	CFHR1	CFI	RPGR	CFHR3	CNGB3
+DOID:445	Bartter disease	CASR	CLCNKA	CLCNKB	KCNJ1	SLC12A1	BSND
+DOID:4450	renal cell carcinoma	HNF1A	HNF1B	VHL	RNF139	DIRC2
+DOID:4451	renal carcinoma	FLCN
+DOID:446	hyperaldosteronism	KCNJ5
+DOID:4465	papillary renal cell carcinoma	MET	PRCC	TFE3
+DOID:4467	renal clear cell carcinoma	OGG1
+DOID:4479	pseudohypoaldosteronism	NR3C2	SCNN1A	SCNN1B	SCNN1G	CUL3	KLHL3	WNK1	WNK4
+DOID:4480	achondroplasia	FGFR3
+DOID:4481	allergic rhinitis	IL13
+DOID:4501	orofaciodigital syndrome	OFD1	C2CD3	TCTN3	C5orf42	DDX59
+DOID:452	pleomorphic adenoma	PLAG1
+DOID:4535	hypotrichosis	CDH3	CDSN	DSC3	DSG1	RMRP	RPL21	SNRPE	LPAR6	POC1A	SOX18	HR	KRT71	KRT74	DSG4	APCDD1	LIPH
+DOID:4603	epidermolytic hyperkeratosis	KRT1	KRT10
+DOID:4610	intestinal benign neoplasm	SDHD
+DOID:4621	holoprosencephaly	GLI2	PTCH1	SHH	SIX3	TGIF1	ZIC2	CDON
+DOID:4624	Ollier disease	NPR2	PTH1R	HDAC6	IMPAD1
+DOID:4626	hydranencephaly	ARX
+DOID:4644	epidermolysis bullosa simplex	DST	KRT5	KRT14	PLEC
+DOID:4647	trilateral retinoblastoma	RB1
+DOID:4677	keratitis	GJB2	PAX6
+DOID:4751	striatonigral degeneration	NUP62
+DOID:4752	multiple system atrophy	COQ2
+DOID:4769	pleuropulmonary blastoma	DICER1
+DOID:4810	cerebrotendinous xanthomatosis	CYP27A1
+DOID:4873	anterior horn cell disease	GLE1
+DOID:4905	pancreatic carcinoma	KRAS	RBBP8
+DOID:4959	epidermolysis bullosa dystrophica	COL7A1	MMP1	PLEC
+DOID:4960	bone marrow cancer	PDGFRB	FGFR1OP
+DOID:4967	NA	CYP11B1	CYP21A2	GNAS	STAR	ARMC5
+DOID:4971	myelofibrosis	CALR	JAK2	MPL	SH2B3
+DOID:4977	lymphedema	FOXC2	KIF11	PTPN14	IKBKG	SOX18	FAT4	CCBE1
+DOID:4989	pancreatitis	CFTR	PRSS1	PRSS3	SPINK1	CTRC
+DOID:4990	essential tremor	DRD3	FUS
+DOID:4997	Camurati-Engelmann disease	TGFB1
+DOID:5003	eunuchism	GNRHR
+DOID:5041	esophageal cancer	TGFBR2	DLEC1	RHBDF2
+DOID:5052	melioidosis	TLR5
+DOID:5082	liver cirrhosis	KRT8	KRT18	PHKG2	SERPINA1	SLC30A10	CIRH1A
+DOID:5138	leiomyomatosis	FH
+DOID:5204	fructose-1,6-bisphosphatase deficiency	FBP1
+DOID:5212	congenital disorder of glycosylation	DDOST	DPAGT1	B4GALT1	STT3A	MGAT2	MPI	PGM1	PMM2	SSR4	SLC35A2	MOGS	DPM1	DPM2	COG1	MPDU1	ALG3	COG5	SLC35A1	DOLK	COG4	ALG6	DPM3	SLC35C1	NGLY1	TMEM165	ALG1	COG6	ALG8	ALG12	SRD5A3	ALG9	ALG13	COG8	RFT1	COG7	STT3B	ALG11
+DOID:5223	infertility	ACR	UBE2B
+DOID:5230	hepatoerythropoietic porphyria	UROD
+DOID:5241	hemangioblastoma	VHL
+DOID:526	Human immunodeficiency virus infectious disease	CCR5	CCL3	CCR2
+DOID:529	blepharospasm	DRD5
+DOID:5325	Roberts syndrome	ESCO2
+DOID:5363	myxoid liposarcoma	DDIT3
+DOID:5374	pilomatrixoma	CTNNB1
+DOID:539	ophthalmoplegia	SLC25A4	DNA2	POLG	RYR1	POLG2	RRM2B	C10orf2
+DOID:5394	prolactinoma	AIP
+DOID:540	strabismus	SOBP
+DOID:5408	Paget's disease of bone	NA	TNFRSF11A	SQSTM1	NA
+DOID:5418	schizoaffective disorder	DISC1
+DOID:5419	schizophrenia	AKT1	CHI3L1	CHRNA7	COMT	DAO	DRD3	NRG1	HTR2A	MTHFR	PRODH	NA	NA	NA	SLC1A1	SYN2	NA	NA	NA	NRXN1	APOL2	NA	DISC1	RTN4R	APOL4	DTNBP1	NA	DAOA	NA	NA
+DOID:5425	ovarian hyperstimulation syndrome	FSHR
+DOID:5426	premature ovarian failure	FOXL2	DIAPH2	FMR1	NR5A1	LHCGR	BMP15	STAG3	POF1B	NOBOX	HFM1	FIGLA
+DOID:543	dystonia	ACTB	DRD2	TOR1A	GCH1	GNAL	SCP2	SLC2A1	SLC6A3	SPR	TAF1L	PRKRA	SGCE	BCAP31	TUBB4A	THAP1	SLC30A10	ANO3
+DOID:5453	pulmonary venoocclusive disease	BMPR2	EIF2AK4
+DOID:5485	synovial sarcoma	SSX1	SSX2	SS18
+DOID:557	kidney disease	FOXC2	PKD1	PKD2	UMOD
+DOID:5572	Beckwith-Wiedemann syndrome	CDKN1C	KCNQ1OT1	NSD1	H19
+DOID:5603	acute T cell leukemia	LMO2	RAP1GDS1	MLLT10	PICALM
+DOID:5614	eye disease	LCAT
+DOID:5679	retinal disease	PDZD7
+DOID:5688	Werner syndrome	WRN
+DOID:5723	optic atrophy	OPA1	NR2F1	UCHL1	NBAS	OPA3	TMEM126A
+DOID:574	peripheral nervous system disease	SLC12A6	MYH14
+DOID:576	proteinuria	CLCN5
+DOID:5768	NA	SF3B4
+DOID:5810	adenosine deaminase deficiency	ADA
+DOID:5812	MHC class II deficiency	CIITA	RFXANK
+DOID:5813	purine nucleoside phosphorylase deficiency	PNP
+DOID:583	hemolytic anemia	AK1	NA	G6PD	GCLC	GPI	GPX1	GSS	HK1	PFKL	RHAG	TPI1
+DOID:5834	spermatocytoma	FGFR3
+DOID:5844	myocardial infarction	ESR1	F7	F13A1	GCLC	GCLM	ITGB3	LGALS2	LTA	OLR1	TNFSF4	LRP8	MIAT
+DOID:585	nephrolithiasis	CLCN5	SLC34A1	SLC9A3R1	ZNF365
+DOID:5898	NA	PKD1	PKD2	PKHD1
+DOID:594	panic disorder	COMT
+DOID:612	primary immunodeficiency disease	DNMT3B	RAC2	ZBTB24
+DOID:6126	anal canal carcinoma	NA
+DOID:613	T lymphocyte deficiency	IL7R	NFKBIA	PTPRC	STK4	FOXN1
+DOID:614	lymphopenia	RAG1
+DOID:62	aortic valve disease	SMAD6	NOTCH1
+DOID:6203	thyroid hyalinizing trabecular adenoma	PLAT
+DOID:6255	growth hormone secreting pituitary adenoma	AIP	GPR101
+DOID:626	complement deficiency	CFB	SERPING1	CFD	CFH
+DOID:627	severe combined immunodeficiency	CD3E	IL2	IL7R	JAK3	PTPRC	RAG1	RAG2	DCLRE1C	NHEJ1
+DOID:628	combined T cell and B cell immunodeficiency	IL2RG
+DOID:635	acquired immunodeficiency syndrome	CX3CR1	IFNG	IL4R	CXCR1	KIR3DL1	CCL3L3	CXCL12
+DOID:6364	migraine	ATP1A2	CACNA1A	EDNRA	ESR1
+DOID:6406	double outlet right ventricle	CERS1	CFC1
+DOID:6419	tetralogy of Fallot	JAG1	GATA4	GATA6	CERS1	TBX1	ZFPM2
+DOID:643	progressive multifocal leukoencephalopathy	PML
+DOID:6432	pulmonary hypertension	BMPR2	CAV1	CPS1	KCNK3	SMAD9	SARS2
+DOID:644	NA	CLCN2	CSF1R	EIF2B1	NOTCH3	SCP2	RNASET2	EIF2B3	EIF2B2	EIF2B5	MLC1	DARS2	AARS2	HEPACAM
+DOID:6457	Cowden disease	AKT1	PIK3CA	PTEN	SDHB	SDHD	KLLN
+DOID:648	kuru	PRNP
+DOID:649	prion disease	PRNP
+DOID:6496	extraskeletal myxoid chondrosarcoma	NR4A3	TAF15
+DOID:6498	seborrheic keratosis	PIK3CA
+DOID:6543	acne	PSEN1	RBP4	PSTPIP1	NCSTN	PSENEN
+DOID:656	adrenal adenoma	MEN1
+DOID:657	adenoma	APC	GNAI2	LHCGR	MEN1	MUTYH	NA	PLAG1	HNF1A	AIP	CDC73	GPR101
+DOID:6612	leukocyte adhesion deficiency	ITGB2	FERMT3
+DOID:6683	Aarskog-Scott syndrome	FGD1
+DOID:6688	autoimmune lymphoproliferative syndrome	FAS	FASLG	CASP8	CASP10	CTLA4	NRAS	PRKCD
+DOID:6713	cerebrovascular disease	SERPINA3	ALOX5AP	ACE	F2	F5	NOS3	PDE4D
+DOID:674	cleft palate	CDH1	HOXA2	UBB	TP63	TBX22
+DOID:676	juvenile rheumatoid arthritis	IL6
+DOID:678	progressive supranuclear palsy	MAPT
+DOID:684	hepatocellular carcinoma	CASP8	CTNNB1	IGF2R	MET	PIK3CA	TP53	AXIN1
+DOID:687	hepatoblastoma	APC
+DOID:699	mitochondrial myopathy	TK2	PUS1	CHCHD10
+DOID:7004	ACTH-secreting pituitary adenoma	AIP
+DOID:701	dentin dysplasia	DSPP	SMOC2
+DOID:707	B-cell lymphoma	ATM	BCL3	BCL6	BCL7A	KDSR
+DOID:7148	rheumatoid arthritis	HLA-DRB1	IL10	CIITA	MIF	NFKBIL1	SLC22A4	PADI4	PTPN22	CD244
+DOID:715	T-cell leukemia	ATM	BAX	LMO1	LYL1	MYB	TAL1	TAL2	NA	NUP214	TCL1A	TCL1B
+DOID:7188	autoimmune thyroiditis	CTLA4
+DOID:7319	axonal neuropathy	HINT1	GAN	DCAF8	TDP1
+DOID:7400	Nijmegen breakage syndrome	NBN	RAD50
+DOID:758	situs inversus	DNAH5	DNAH11	ARL2BP	DNAI1	DNAI2
+DOID:759	NA	DDOST	DPAGT1	B4GALT1	STT3A	MGAT2	MPI	PGM1	PMM2	SSR4	SLC35A2	MOGS	DPM1	DPM2	COG1	MPDU1	ALG3	COG5	SLC35A1	DOLK	COG4	ALG6	DPM3	SLC35C1	NGLY1	TMEM165	ALG1	COG6	ALG8	ALG12	SRD5A3	ALG9	ALG13	COG8	ALG2	RFT1	COG7	STT3B	ALG11
+DOID:7608	parathyroid adenoma	MEN1	CDC73
+DOID:767	muscular atrophy	AR	ASAH1	ATP7A	DYNC1H1	FHL1	DNAJB2	SMN1	SMN2	UBA1	VAPB	BICD2	PLEKHG5	TRPV4	CHCHD10
+DOID:768	retinoblastoma	RB1
+DOID:769	neuroblastoma	ALK	NME1	TP73	PHOX2B	KIF1B
+DOID:783	end stage renal failure	APOL1
+DOID:7941	Barrett's adenocarcinoma	MSR1	ASCC1	CTHRC1
+DOID:7998	hyperthyroidism	TSHR
+DOID:811	lipodystrophy	CAV1	POLD1	PSMB8	ZMPSTE24	BSCL2	LMNB2
+DOID:8158	complement component 5 deficiency	C5
+DOID:8295	scabies	GALE
+DOID:83	cataract	BFSP1	CAV1	CRYAA	CRYAB	CRYBA1	CRYBA2	CRYBA4	CRYBB1	CRYBB2	CRYBB3	CRYGB	CRYGC	CRYGD	CRYGS	EPHA2	EYA1	FTL	GALK1	GCNT2	GFER	GJA3	GJA8	HSF4	LIM2	MAF	MIP	NHS	SIX6	PAX6	PITX3	SORD	VIM	BEST1	WFS1	BFSP2	CTDP1	SLC33A1	TDRD7	ABHD12	RDH11	P3H2	IARS2	AGK	FYCO1	OPA3	CHMP4B	SLC16A12
+DOID:8354	complement component 3 deficiency	C3
+DOID:8398	osteoarthritis	ACAN	COL2A1	FRZB	MATN3	GDF5	ASPN
+DOID:84	osteochondritis dissecans	ACAN
+DOID:8432	polycythemia	SLC30A10
+DOID:8440	ileus	GUCY2C
+DOID:8465	retinoschisis	RS1
+DOID:8466	retinal degeneration	ACO2	C1QTNF5
+DOID:8469	influenza	IFITM3
+DOID:848	arthritis	LTA	PSTPIP1	NOD2
+DOID:8488	polyhydramnios	STRADA
+DOID:8498	hereditary night blindness	GRK1	SAG
+DOID:850	lung disease	HMOX1	SERPINA1	TGFB1
+DOID:8501	fundus dystrophy	ABCA4	CRX	OTX2	TIMP3	TUB	PROM1	LRAT	ITM2B	RDH11	INPP5E
+DOID:8506	bullous pemphigoid	HLA-DRB1
+DOID:8541	Sezary's disease	BCL10
+DOID:8545	malignant hyperthermia	CACNA1S	RYR1
+DOID:8552	chronic myeloid leukemia	BCR
+DOID:8553	pyoderma gangrenosum	PSTPIP1
+DOID:856	biotinidase deficiency	BTD
+DOID:8566	herpes simplex	TLR3	TRAF3	UNC93B1
+DOID:8567	Hodgkin's lymphoma	BCL7A	CASP10	KLHDC8B
+DOID:8584	Burkitt lymphoma	MYC
+DOID:859	holocarboxylase synthetase deficiency	HLCS
+DOID:8632	Kaposi's sarcoma	IL6
+DOID:8689	anorexia nervosa	BDNF	HTR2A
+DOID:870	neuropathy	DCTN1	EGR2	GARS	GJB1	HSPB1	MPZ	PMP22	SCN9A	SCP2	CTDP1	SNAP29	OTOF	CCT5	HSPB8	BSCL2	DHH	DIAPH3	SYT2
+DOID:8712	neurofibromatosis	NF1	NF2
+DOID:8741	seborrheic dermatitis	ZNF750
+DOID:8778	Crohn's disease	IL6
+DOID:8857	lupus erythematosus	FCGR2A	ITGAM	TREX1	SAMHD1
+DOID:8893	psoriasis	HLA-C	TRAF3IP2	IL36RN	CARD14	AP1S3	IL23R
+DOID:890	mitochondrial encephalomyopathy	SUCLG1	SUCLA2	FBXL4	RRM2B
+DOID:891	progressive myoclonus epilepsy	ASAH1	CSTB	KCNC1	EPM2A	GOSR2	PRICKLE1	PRICKLE2	NHLRC1
+DOID:8923	skin melanoma	CDK4	CDKN2A	MC1R	TERT	XRCC3
+DOID:8924	autoimmune thrombocytopenic purpura	FCGR2A
+DOID:8927	learning disability	SYN1
+DOID:893	Wilson disease	ATP7B
+DOID:8943	lattice corneal dystrophy	TGFBI
+DOID:8955	sideroblastic anemia	YARS2	TRNT1	GLRX5	SLC25A38	PUS1
+DOID:898	polycystic kidney disease	PKD1	PKD2	PKHD1
+DOID:8986	narcolepsy	DNMT1	HCRT	MOG
+DOID:8997	polycythemia vera	JAK2
+DOID:90	degenerative disc disease	ASPN
+DOID:9007	sudden infant death syndrome	SCN5A	TSPYL1
+DOID:9008	psoriatic arthritis	LTA	NOD2
+DOID:905	Zellweger syndrome	PEX1	PEX6	PEX7	PEX10	PEX12	PEX13	PEX14	PEX19	PEX2	PEX5	PEX3	PEX11B	PEX16	PEX26
+DOID:906	peroxisomal disease	FAR1
+DOID:9074	systemic lupus erythematosus	C4A	CR1	CR2	CTLA4	DNASE1	DNASE1L3	FCGR2B	IRF5	PDCD1	STAT4	TLR5	TREX1	PTPN22	BANK1
+DOID:9080	macroglobulinemia	MYD88
+DOID:9119	acute myeloid leukemia	RUNX1	CBFB	CEBPA	ETV6	FLT3	KIT	LPP	MLF1	NPM1	SH3GL1	TERT	NUP214	MLLT10	PICALM	SEPT9	ARHGEF12	CHIC2	WHSC1L1	NSD1
+DOID:9120	amyloidosis	APCS	APOA1	LYZ
+DOID:9164	achalasia	GUCY1A3	AAAS	GMPPA
+DOID:9169	Wiskott-Aldrich syndrome	WAS	WIPF1
+DOID:92	speech disorder	GRIN2A	FOXP2
+DOID:9206	Barrett's esophagus	MSR1	ASCC1	CTHRC1
+DOID:9212	pityriasis rubra pilaris	CARD14
+DOID:9240	erythromelalgia	SCN9A
+DOID:9245	Alagille syndrome	JAG1	NOTCH2
+DOID:9246	cerebral amyloid angiopathy	APP	CST3	PRNP
+DOID:9248	Pallister-Hall syndrome	GLI3
+DOID:9250	acrocallosal syndrome	KIF7
+DOID:9253	gastrointestinal stromal tumor	KIT	PDGFRA	SDHB	SDHC
+DOID:9255	frontotemporal dementia	FUS	GRN	HNRNPA1	HNRNPA2B1	PSEN1	VCP	TARDBP	UBQLN2	C9orf72	CHCHD10
+DOID:9256	colorectal cancer	AKT1	APC	BAX	CCND1	BRAF	BUB1	BUB1B	CTNNB1	DCC	EP300	FGFR3	MSH6	EPCAM	SMAD7	MCC	MLH1	MSH2	NRAS	PDGFRL	PIK3CA	PLA2G2A	PMS2	POLD1	POLE	TGFBR2	TLR2	TLR4	TP53	AXIN2	DLC1	MLH3	GALNT12	FLCN
+DOID:9258	Waardenburg's syndrome	EDN3	EDNRB	MITF	PAX3	SNAI2	SOX10	TYR
+DOID:9261	nasopharynx carcinoma	TP53
+DOID:9263	homocystinuria	CBS	MTHFR	MTR	MTRR	ABCD4	MMACHC	MMADHC	LMBRD1
+DOID:9266	cystinuria	SLC3A1	SLC7A9
+DOID:9268	glycine encephalopathy	AMT	GCSH	GLDC
+DOID:9269	maple syrup urine disease	BCKDHA	BCKDHB	DBT	DLD	PPM1K
+DOID:9270	alkaptonuria	HGD
+DOID:9271	ornithine carbamoyltransferase deficiency	OTC
+DOID:9273	citrullinemia	ASS1	SLC25A13
+DOID:9274	hyperlysinemia	AASS
+DOID:9275	tyrosinemia	FAH	GSTZ1	HPD	TAT
+DOID:9278	hyperargininemia	ARG1
+DOID:9279	hyperhomocysteinemia	CBS
+DOID:9281	phenylketonuria	PAH
+DOID:9296	cleft lip	CDH1	PVRL1	TP63	YAP1
+DOID:93	language disorder	FOXP2
+DOID:934	viral infectious disease	OAS1	STAT1	MAGT1
+DOID:9351	diabetes mellitus	FOXC2	HMGA1	IL2RA	INSR	PDX1	KCNJ11	MTNR1B	OAS1	ENPP1	DNAJC3	TCF7L2	WFS1	IGF2BP2	FOXP3	CDKAL1	RETN	SLC30A8	GLIS3
+DOID:9352	type 2 diabetes mellitus	AKT2	GCGR	GCK	HNF4A	IRS1	LIPC	NEUROD1	PAX4	SLC2A2	ABCC8	HNF1A	HNF1B	IRS2	MAPK8IP1	TBC1D4	CAPN10	NA	NA
+DOID:936	brain disease	AMT	CHD2	COL4A1	CPT2	GCSH	GLDC	MECP2	SERPINI1	RANBP2	FADD	ETHE1	BSCL2	TPK1	SLC19A3	SERAC1	TICAM1
+DOID:9406	hypopituitarism	OTX2	POU1F1	PROP1	LHX3	HESX1	LHX4
+DOID:9409	diabetes insipidus	AQP2	AVP	AVPR2
+DOID:9410	panhypopituitarism	SOX3
+DOID:9467	nail-patella syndrome	LMX1B
+DOID:9538	multiple myeloma	CCND1	LIG4
+DOID:9562	primary ciliary dyskinesia	SPAG1	LRRC6	NME8	ZMYND10	HYDIN	DNAAF5	CCDC40	ARMC4	DNAAF2	C21orf59	DNAL1	CCDC65	RSPH1	DRC1	CCDC114	CCDC151	DNAAF1	DYX1C1	RSPH9	CCDC39	RSPH4A	DNAAF3	CCDC103
+DOID:9563	bronchiectasis	CFTR	SCNN1A	SCNN1B	SCNN1G
+DOID:9574	choanal atresia	PTPN14
+DOID:9588	encephalitis	TLR3	TRAF3	UNC93B1
+DOID:9620	vesicoureteral reflux	ROBO2	TNXB	SOX17
+DOID:963	episodic ataxia	CACNA1A	CACNB4	KCNA1	SLC1A3
+DOID:9631	Pelger-Huet anomaly	LBR	NBAS
+DOID:9649	congenital nystagmus	GPR143	FRMD7
+DOID:9667	placental abruption	MTHFD1
+DOID:9744	type 1 diabetes mellitus	CCR5	CTLA4	INS	HNF1A	NA	SUMO4
+DOID:9810	polyarteritis nodosa	CECR1
+DOID:9821	choroideremia	CHM
+DOID:9827	radioulnar synostosis	HOXA11
+DOID:987	alopecia	FOXN1	CLDN1	RIN2	RBM28
+DOID:9870	galactosemia	GALT
+DOID:9883	Becker muscular dystrophy	DMD
+DOID:9884	muscular dystrophy	ITGA7	LAMA2	PLEC	TTN	SMCHD1	SEPN1
+DOID:9952	acute lymphocytic leukemia	BAX	BCR	BRCA2	FLT3	MYB	NBN	TCF3	NA	IKZF1
+DOID:9955	hypoplastic left heart syndrome	NKX2-5	GJA1
+DOID:9969	carotenemia	BCO1
+DOID:9970	obesity	ADRB2	ADRB3	AGRP	AKR1C2	LEP	LEPR	MC3R	MC4R	NTRK2	PCSK1	ENPP1	POMC	PPARG	PYY	TUB	UCP1	UCP2	NR0B2	DYRK1B	CARTPT	SDC3	SLC6A14	GHRL	INPP5E	MRAP2	PPARGC1B	FFAR4
+DOID:999	eosinophilia	ABL2	PDGFRB
+DOID:9993	hypoglycemia	AKT2	GCK	HADH	INSR	KCNJ11	SLC16A1	ABCC8

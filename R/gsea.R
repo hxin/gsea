@@ -571,6 +571,7 @@ GSEA.Gct2Frame2 <- function(filename = "NULL") {
   col.names <- col.names[c(-1, -2)]
   num.cols <- length(col.names)
   content <- content[-1]
+  content <- content[which(content!="")]
   num.lines <- length(content)
   
   
